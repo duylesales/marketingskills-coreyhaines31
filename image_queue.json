@@ -1,0 +1,3002 @@
+[
+  {
+    "filepath": "blog/long_article_5_b2b_web_application_anatomy.md",
+    "title": "The Anatomy of the Enterprise Web App: Why B2B Web Application Development is Not \"Building a Website\"",
+    "pic_path": "blog/long_article_5_b2b_web_application_anatomy_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_6_offshore_communication_physics.md",
+    "title": "The Physics of Communication: How to Bridge the Cognitive Gap in Offshore Software Development",
+    "pic_path": "blog/long_article_6_offshore_communication_physics_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_7_strangler_fig_outsourcing.md",
+    "title": "The \"Strangler Fig\" Modernization Strategy: Using IT Outsourcing to Safely Dismantle Legacy Enterprise Systems",
+    "pic_path": "blog/long_article_7_strangler_fig_outsourcing_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_8_staff_augmentation_security.md",
+    "title": "The Cyber-Security Perimeter: Managing IAM, VPNs, and Endpoint Security During IT Staff Augmentation",
+    "pic_path": "blog/long_article_8_staff_augmentation_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_9_dedicated_team_agile_pod.md",
+    "title": "The Anatomy of the Offshore Agile Pod: Why a Dedicated Development Team Needs a Translator, Not Just Coders",
+    "pic_path": "blog/long_article_9_dedicated_team_agile_pod_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_10_software_engineering_chaos.md",
+    "title": "System Resiliency and Chaos Engineering: Redefining Software Engineering for the Cloud Era",
+    "pic_path": "blog/long_article_10_software_engineering_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_11_software_developer_myth.md",
+    "title": "The \"10x Developer\" Myth: Why Process Trumps Heroics in Enterprise Software Engineering",
+    "pic_path": "blog/long_article_11_software_developer_myth_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_12_outsourcing_pricing_trap.md",
+    "title": "The Agency Pricing Trap: Fixed-Price vs. Time & Materials in Software Procurement",
+    "pic_path": "blog/long_article_12_outsourcing_pricing_trap_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_14_software_outsourcing_escrow.md",
+    "title": "The IP Escrow Clause: Legal Frameworks for Defending Source Code in Software Outsourcing",
+    "pic_path": "blog/long_article_14_software_outsourcing_escrow_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_15_dedicated_team_bus_factor.md",
+    "title": "The \"Bus Factor\" of 1: Eliminating Single Points of Knowledge Failure in a Dedicated Development Team",
+    "pic_path": "blog/long_article_15_dedicated_team_bus_factor_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_16_nearshore_vs_offshore_development.md",
+    "title": "Timezone vs. Talent Pool: The Mathematical Trade-offs of Nearshore Software Development",
+    "pic_path": "blog/long_article_16_nearshore_vs_offshore_development_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_17_offshore_developers_pr_shield.md",
+    "title": "The Pull Request Shield: How to Safely Integrate Offshore Developers into a Monolithic Codebase",
+    "pic_path": "blog/long_article_17_offshore_developers_pr_shield_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_18_software_development_services_discovery.md",
+    "title": "The \"Discovery Phase\" Scam: How to Procure Software Development Services Without Getting Milked",
+    "pic_path": "blog/long_article_18_software_development_services_discovery_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_19_custom_software_vs_saas.md",
+    "title": "Buy vs. Build: The CTO\u2019s Formula for Valuing Custom Software over SaaS Subscriptions",
+    "pic_path": "blog/long_article_19_custom_software_vs_saas_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_20_it_outsourcing_cloud_sprawl.md",
+    "title": "Shadow IT and Cloud Sprawl: Reigning in AWS Costs When Using IT Outsourcing Services",
+    "pic_path": "blog/long_article_20_it_outsourcing_cloud_sprawl_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_23_offshore_compliance_audit.md",
+    "title": "The Compliance Audit: Verifying GDPR and HIPAA Security in an Offshore Software Company",
+    "pic_path": "blog/long_article_23_offshore_compliance_audit_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_24_hire_dedicated_developers_tshaped.md",
+    "title": "The T-Shaped Engineer: Why You Should Hire Dedicated Developers with Cross-Functional Empathy",
+    "pic_path": "blog/long_article_24_hire_dedicated_developers_tshaped_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_25_software_engineering_team_conways_law.md",
+    "title": "Conway\u2019s Law: How the Structure of Your Software Engineering Team Dictates Your Cloud Architecture",
+    "pic_path": "blog/long_article_25_software_engineering_team_conways_law_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_26_outsource_software_ownership_trap.md",
+    "title": "The \"Code Ownership\" Trap: What You Really Buy When You Outsource Software",
+    "pic_path": "blog/long_article_26_outsource_software_ownership_trap_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_27_software_development_team_metrics.md",
+    "title": "Velocity vs. Quality: Balancing Metrics in a High-Performing Software Development Team",
+    "pic_path": "blog/long_article_27_software_development_team_metrics_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_28_b2b_software_multitenancy.md",
+    "title": "Multitenancy Architecture: The Foundation of Scalable B2B Software",
+    "pic_path": "blog/long_article_28_b2b_software_multitenancy_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_29_b2b_ecommerce_architecture.md",
+    "title": "Catalog Complexity: Why B2B eCommerce Requires Deep Database Architecture, Not Just a Shopping Cart",
+    "pic_path": "blog/long_article_29_b2b_ecommerce_architecture_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_30_custom_application_development_roi.md",
+    "title": "The ROI of Flexibility: Measuring the True Value of Custom Application Development",
+    "pic_path": "blog/long_article_30_custom_application_development_roi_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_31_bespoke_software_psychology.md",
+    "title": "The Psychology of Bespoke Software: Aligning Engineering with Business Workflows",
+    "pic_path": "blog/long_article_31_bespoke_software_psychology_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_32_bespoke_software_development_legacy_migration.md",
+    "title": "Legacy Migration: Integrating Bespoke Software Development with Ancient Mainframes",
+    "pic_path": "blog/long_article_32_bespoke_software_development_legacy_migration_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_33_bespoke_software_security_posture.md",
+    "title": "The Security Posture of Bespoke Software Solutions vs. Open-Source Alternatives",
+    "pic_path": "blog/long_article_33_bespoke_software_security_posture_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_34_enterprise_software_ddd.md",
+    "title": "Domain-Driven Design (DDD): The Mathematical Blueprint for Enterprise Software Development",
+    "pic_path": "blog/long_article_34_enterprise_software_ddd_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_35_custom_software_company_due_diligence.md",
+    "title": "Vendor Due Diligence: 5 Architectural Questions to Ask a Custom Software Development Company",
+    "pic_path": "blog/long_article_35_custom_software_company_due_diligence_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_36_software_development_firm_bait_and_switch.md",
+    "title": "The Bait and Switch: How to Audit the Talent Roster of a Software Development Firm",
+    "pic_path": "blog/long_article_36_software_development_firm_bait_and_switch_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_37_b2b_software_data_portability.md",
+    "title": "Data Portability: The Hidden Requirement in Modern B2B Software Products",
+    "pic_path": "blog/long_article_37_b2b_software_data_portability_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_38_software_engineering_process_ci_fallacy.md",
+    "title": "The Continuous Integration (CI) Fallacy: Why Your Software Engineering Process is Failing",
+    "pic_path": "blog/long_article_38_software_engineering_process_ci_fallacy_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_39_offshore_development_center_security.md",
+    "title": "Information Security Protocols in a Vietnamese Offshore Development Center",
+    "pic_path": "blog/long_article_39_offshore_development_center_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_40_nearshore_vs_offshore_architecture.md",
+    "title": "Nearshore vs Offshore: A CTO's Guide to Latency, Time Zones, and Architectural Synchronization",
+    "pic_path": "blog/long_article_40_nearshore_vs_offshore_architecture_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_41_offshore_team_agile_integration.md",
+    "title": "The Culture Profile: Integrating an Offshore Team into US Agile Sprints",
+    "pic_path": "blog/long_article_41_offshore_team_agile_integration_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_42_hire_remote_developers_async.md",
+    "title": "The Synchronous Tax: Why You Should Hire Remote Developers for Asynchronous Velocity",
+    "pic_path": "blog/long_article_42_hire_remote_developers_async_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_43_outsource_app_development_battery.md",
+    "title": "The Mobile Payload: How to Outsource App Development Without Draining User Batteries",
+    "pic_path": "blog/long_article_43_outsource_app_development_battery_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_44_it_outsourcing_company_spof.md",
+    "title": "The \"Single Point of Failure\" in an IT Outsourcing Company",
+    "pic_path": "blog/long_article_44_it_outsourcing_company_spof_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_45_b2b_ecommerce_caching_strategies.md",
+    "title": "Caching Strategies for a High-Volume B2B eCommerce Platform",
+    "pic_path": "blog/long_article_45_b2b_ecommerce_caching_strategies_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_46_it_outsourcing_services_devops.md",
+    "title": "Beyond the Code: Why Premium IT Outsourcing Services Include DevOps as Standard",
+    "pic_path": "blog/long_article_46_it_outsourcing_services_devops_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_47_hire_offshore_developers_code_review.md",
+    "title": "The Code Review Bottleneck: When to Hire Offshore Developers to Unblock Your CTO",
+    "pic_path": "blog/long_article_47_hire_offshore_developers_code_review_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_48_staff_augmentation_onboarding_calculus.md",
+    "title": "The Onboarding Calculus: Calculating the Real Cost of Staff Augmentation",
+    "pic_path": "blog/long_article_48_staff_augmentation_onboarding_calculus_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_49_b2b_ecommerce_cpq_architecture.md",
+    "title": "Pricing the Un-Pricable: CPQ Architecture in B2B eCommerce",
+    "pic_path": "blog/long_article_49_b2b_ecommerce_cpq_architecture_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_50_outsource_software_development_disaster_recovery.md",
+    "title": "Disaster Recovery Protocols When You Outsource Software Development",
+    "pic_path": "blog/long_article_50_outsource_software_development_disaster_recovery_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_51_custom_app_development_rejection.md",
+    "title": "App Store Rejection: The Hidden Risk in Custom App Development",
+    "pic_path": "blog/long_article_51_custom_app_development_rejection_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_52_software_engineering_shift_left.md",
+    "title": "The Shift-Left Paradigm: Securing the Software Engineering Pipeline",
+    "pic_path": "blog/long_article_52_software_engineering_shift_left_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_53_software_product_development_feature_flags.md",
+    "title": "Feature Flags: Decoupling Deployment from Release in Software Product Development",
+    "pic_path": "blog/long_article_53_software_product_development_feature_flags_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_54_saas_development_tenant_onboarding.md",
+    "title": "Tenant Onboarding Automation: The First 5 Minutes of SaaS Development",
+    "pic_path": "blog/long_article_54_saas_development_tenant_onboarding_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_55_cloud_migration_lift_and_shift.md",
+    "title": "The \"Lift and Shift\" Disaster: Why Cloud Migration Requires Application Refactoring",
+    "pic_path": "blog/long_article_55_cloud_migration_lift_and_shift_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_56_hire_dedicated_developers_10x_myth.md",
+    "title": "The 10x Developer Myth: Why You Should Hire Dedicated Developers Who Understand Systems Thinking",
+    "pic_path": "blog/long_article_56_hire_dedicated_developers_10x_myth_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_57_dedicated_offshore_developers_two_pizza.md",
+    "title": "The \"Two-Pizza Team\" Rule: Structuring Dedicated Offshore Developers for Microservices",
+    "pic_path": "blog/long_article_57_dedicated_offshore_developers_two_pizza_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_58_app_development_agency_native_vs_cross.md",
+    "title": "Native vs. Cross-Platform: How an App Development Agency Should Calculate the Math",
+    "pic_path": "blog/long_article_58_app_development_agency_native_vs_cross_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_59_outsource_software_escrow.md",
+    "title": "Intellectual Property Escrow: The Fail-Safe When You Outsource Software",
+    "pic_path": "blog/long_article_59_outsource_software_escrow_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_60_hire_software_engineers_leetcode_fallacy.md",
+    "title": "The LeetCode Fallacy: Why You Shouldn't Hire Software Engineers Based on Algorithms Alone",
+    "pic_path": "blog/long_article_60_hire_software_engineers_leetcode_fallacy_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_61_offshore_dedicated_developers_adr.md",
+    "title": "The \"Single Source of Truth\" Fallacy: Why Offshore Dedicated Developers Need Architecture Decision Records",
+    "pic_path": "blog/long_article_61_offshore_dedicated_developers_adr_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_62_web_development_outsourcing_backend.md",
+    "title": "Beyond the Frontend: The Hidden Backend Complexity of Web Development Outsourcing",
+    "pic_path": "blog/long_article_62_web_development_outsourcing_backend_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_63_outsourced_product_development_mvp.md",
+    "title": "The MVP Trap: Why Outsourced Product Development Fails When You Ignore Technical Debt",
+    "pic_path": "blog/long_article_63_outsourced_product_development_mvp_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_64_app_development_services_battery_drain.md",
+    "title": "The Battery Drain Metric: Evaluating Elite App Development Services",
+    "pic_path": "blog/long_article_64_app_development_services_battery_drain_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_65_software_outsourcing_company_bus_factor.md",
+    "title": "The \"Bus Factor\" of 1: Evaluating the Resilience of Your Software Outsourcing Company",
+    "pic_path": "blog/long_article_65_software_outsourcing_company_bus_factor_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_66_software_development_vendor_sunk_cost.md",
+    "title": "Escaping the Sunk Cost Fallacy: When to Fire Your Software Development Vendor",
+    "pic_path": "blog/long_article_66_software_development_vendor_sunk_cost_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_67_dedicated_software_development_team_l3_sre.md",
+    "title": "The 3-Tier Support Architecture: Why Your Dedicated Software Development Team Needs an L3 SRE",
+    "pic_path": "blog/long_article_67_dedicated_software_development_team_l3_sre_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_68_agile_software_development_story_points.md",
+    "title": "Story Points are Not Hours: The Core Mathematical Fallacy of Agile Software Development",
+    "pic_path": "blog/long_article_68_agile_software_development_story_points_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_69_enterprise_software_development_iam.md",
+    "title": "Identity Access Management (IAM): The Geopolitics of Enterprise Software Development",
+    "pic_path": "blog/long_article_69_enterprise_software_development_iam_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_70_software_development_firm_soc_2.md",
+    "title": "SOC 2 Type II: The Ultimate Filter for Choosing a Software Development Firm",
+    "pic_path": "blog/long_article_70_software_development_firm_soc_2_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_71_outsource_web_development_seo_extinction.md",
+    "title": "The SEO Extinction Event: Why Outsource Web Development Often Destroys Your Google Rankings",
+    "pic_path": "blog/long_article_71_outsource_web_development_seo_extinction_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_72_dedicated_development_team_async_standup.md",
+    "title": "The \"Daily Standup\" Antipattern: How to Run a Dedicated Development Team Asynchronously",
+    "pic_path": "blog/long_article_72_dedicated_development_team_async_standup_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_73_offshore_software_development_services_retention.md",
+    "title": "The Great Resignation Shield: Why Enterprises are Hoarding Offshore Software Development Services",
+    "pic_path": "blog/long_article_73_offshore_software_development_services_retention_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_74_software_product_engineering_deletion.md",
+    "title": "Designing for Deletion: The Core Tenet of Modern Software Product Engineering",
+    "pic_path": "blog/long_article_74_software_product_engineering_deletion_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_75_mobile_app_development_services_zombie.md",
+    "title": "The \"Zombie App\" Epidemic: Why 80% of Mobile App Development Services Produce Abandonware",
+    "pic_path": "blog/long_article_75_mobile_app_development_services_zombie_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_76_hire_offshore_software_developers_language.md",
+    "title": "The Language Barrier is a Math Problem: How to Test Communication When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_76_hire_offshore_software_developers_language_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_77_custom_software_development_firm_supply_chain.md",
+    "title": "The 3rd Party Liability: Auditing the Supply Chain of a Custom Software Development Firm",
+    "pic_path": "blog/long_article_77_custom_software_development_firm_supply_chain_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_78_offshore_software_development_company_sla.md",
+    "title": "Beyond the SLA: Architecting Penalty Clauses with Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_78_offshore_software_development_company_sla_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_79_it_outsourcing_company_shadow_it.md",
+    "title": "The \"Shadow IT\" Threat: Securing Your Enterprise When Using an IT Outsourcing Company",
+    "pic_path": "blog/long_article_79_it_outsourcing_company_shadow_it_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_80_software_development_outsourcing_audit.md",
+    "title": "The Code Base Audit: The 5-Day Technical Due Diligence Before Software Development Outsourcing",
+    "pic_path": "blog/long_article_80_software_development_outsourcing_audit_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_81_outsource_web_development_api_gateway.md",
+    "title": "The API Gateway: The Contract That Makes It Safe to Outsource Web Development",
+    "pic_path": "blog/long_article_81_outsource_web_development_api_gateway_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_82_dedicated_development_team_refactoring.md",
+    "title": "The Culture of Refactoring: Measuring the True Health of a Dedicated Development Team",
+    "pic_path": "blog/long_article_82_dedicated_development_team_refactoring_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_83_offshore_software_development_services_over_engineering.md",
+    "title": "Over-Engineering: The Hidden Cost of Premium Offshore Software Development Services",
+    "pic_path": "blog/long_article_83_offshore_software_development_services_over_engineering_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_84_software_product_engineering_data_migration.md",
+    "title": "The Data Migration Tax: The Unseen Phase of Software Product Engineering",
+    "pic_path": "blog/long_article_84_software_product_engineering_data_migration_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_85_mobile_app_development_services_offline.md",
+    "title": "The Offline Mode Dilemma: A True Test of Mobile App Development Services",
+    "pic_path": "blog/long_article_85_mobile_app_development_services_offline_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_86_hire_offshore_software_developers_bus_factor.md",
+    "title": "The \"Single Point of Failure\" Myth When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_86_hire_offshore_software_developers_bus_factor_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_87_custom_software_development_firm_10x.md",
+    "title": "The 10x Developer Trap: Why a Custom Software Development Firm Needs Systems, Not Geniuses",
+    "pic_path": "blog/long_article_87_custom_software_development_firm_10x_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_88_offshore_software_development_company_time.md",
+    "title": "The \"Time and Materials\" Fallacy: Aligning Incentives with Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_88_offshore_software_development_company_time_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_89_it_outsourcing_company_ip_handover.md",
+    "title": "The Intellectual Property Handover: Cryptographic Verification When Leaving an IT Outsourcing Company",
+    "pic_path": "blog/long_article_89_it_outsourcing_company_ip_handover_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_90_software_development_outsourcing_code_freeze.md",
+    "title": "The \"Code Freeze\" Antipattern: Why Continuous Deployment is Mandatory for Software Development Outsourcing",
+    "pic_path": "blog/long_article_90_software_development_outsourcing_code_freeze_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_91_outsource_web_development_seo_javascript.md",
+    "title": "SEO Murder via JavaScript: The 5-Second Render Test Before You Outsource Web Development",
+    "pic_path": "blog/long_article_91_outsource_web_development_seo_javascript_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_92_dedicated_development_team_product_empathy.md",
+    "title": "Beyond Jira Tickets: How to Cultivate \"Product Empathy\" in a Dedicated Development Team",
+    "pic_path": "blog/long_article_92_dedicated_development_team_product_empathy_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_93_offshore_software_development_services_black_box.md",
+    "title": "The \"Black Box\" Vendor: Eliminating Asymmetric Information in Offshore Software Development Services",
+    "pic_path": "blog/long_article_93_offshore_software_development_services_black_box_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_94_software_product_engineering_scalability.md",
+    "title": "The Scalability Fallacy: Why 90% of Software Product Engineering Attempts to Solve the Wrong Bottleneck",
+    "pic_path": "blog/long_article_94_software_product_engineering_scalability_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_95_mobile_app_development_services_hardware.md",
+    "title": "The Hardware Acceleration Paradigm: When Native Mobile App Development Services are Mathematically Required",
+    "pic_path": "blog/long_article_95_mobile_app_development_services_hardware_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_96_hire_offshore_software_developers_onboarding.md",
+    "title": "The Onboarding Tax: Why it Takes 3 Months to Actually Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_96_hire_offshore_software_developers_onboarding_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_97_custom_software_development_firm_escrow.md",
+    "title": "The Source Code Escrow: Protecting Your IP When a Custom Software Development Firm Goes Bankrupt",
+    "pic_path": "blog/long_article_97_custom_software_development_firm_escrow_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_98_offshore_software_development_company_yes_men.md",
+    "title": "The \"Yes Men\" Epidemic: Eradicating Deferential Culture in Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_98_offshore_software_development_company_yes_men_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_99_it_outsourcing_company_iam.md",
+    "title": "Security Through Obscurity is Dead: Auditing the IAM Role Setup of Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_99_it_outsourcing_company_iam_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_100_software_development_outsourcing_key_man.md",
+    "title": "The \"Key Man\" Clause: Locking Down Lead Architects in Software Development Outsourcing",
+    "pic_path": "blog/long_article_100_software_development_outsourcing_key_man_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_101_outsource_web_development_ada_compliance.md",
+    "title": "The Accessibility Lawsuit: Why You Must Audit ADA Compliance When You Outsource Web Development",
+    "pic_path": "blog/long_article_101_outsource_web_development_ada_compliance_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_102_dedicated_development_team_hero.md",
+    "title": "The \"Hero Developer\" Burnout: Distributing the Load in a Dedicated Development Team",
+    "pic_path": "blog/long_article_102_dedicated_development_team_hero_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_103_offshore_software_development_services_cicd.md",
+    "title": "The CI/CD Mandate: Why Offshore Software Development Services Must Deploy to Staging Daily",
+    "pic_path": "blog/long_article_103_offshore_software_development_services_cicd_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_104_software_product_engineering_tech_debt.md",
+    "title": "The Tech Debt Singularity: Auditing Code Quality in Software Product Engineering",
+    "pic_path": "blog/long_article_104_software_product_engineering_tech_debt_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_105_mobile_app_development_services_app_store.md",
+    "title": "The \"App Store Reject\" Disaster: Pre-Compliance in Mobile App Development Services",
+    "pic_path": "blog/long_article_105_mobile_app_development_services_app_store_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_106_hire_offshore_software_developers_language.md",
+    "title": "The Language Barrier Illusion: Why Hiring Offshore Software Developers Fails on Domain Logic, Not English",
+    "pic_path": "blog/long_article_106_hire_offshore_software_developers_language_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_107_custom_software_development_firm_vendor_lock_in.md",
+    "title": "The Vendor Lock-In Extortion: How a Custom Software Development Firm Traps Your Database",
+    "pic_path": "blog/long_article_107_custom_software_development_firm_vendor_lock_in_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_108_offshore_software_development_company_soc2.md",
+    "title": "The SOC 2 Mandate: Vetting the Cloud Security of Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_108_offshore_software_development_company_soc2_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_109_it_outsourcing_company_dependencies.md",
+    "title": "The End-of-Life Bomb: Managing Software Dependency Updates with an IT Outsourcing Company",
+    "pic_path": "blog/long_article_109_it_outsourcing_company_dependencies_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_110_software_development_outsourcing_story_points.md",
+    "title": "The Agile Velocity Illusion: Why Story Points Are Useless in Software Development Outsourcing",
+    "pic_path": "blog/long_article_110_software_development_outsourcing_story_points_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_111_outsource_web_development_cdn.md",
+    "title": "The Caching Catastrophe: Why Global CDNs Are Mandatory When You Outsource Web Development",
+    "pic_path": "blog/long_article_111_outsource_web_development_cdn_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_112_dedicated_development_team_timezone.md",
+    "title": "The Timezone Arbitration Fallacy: Why a Dedicated Development Team Needs a 3-Hour Overlap",
+    "pic_path": "blog/long_article_112_dedicated_development_team_timezone_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_113_offshore_software_development_services_ip.md",
+    "title": "The \"Code Ownership\" Trap: Enforcing IP Transfer Protocols in Offshore Software Development Services",
+    "pic_path": "blog/long_article_113_offshore_software_development_services_ip_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_114_software_product_engineering_feature_factory.md",
+    "title": "The Feature Factory Antipattern: Why Software Product Engineering Fails Without Business Context",
+    "pic_path": "blog/long_article_114_software_product_engineering_feature_factory_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_115_mobile_app_development_services_battery.md",
+    "title": "The Battery Drain Catastrophe: Auditing Mobile App Development Services for Hardware Efficiency",
+    "pic_path": "blog/long_article_115_mobile_app_development_services_battery_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_116_hire_offshore_software_developers_middleman.md",
+    "title": "The 'Middleman' Illusion: Why You Must Hire Offshore Software Developers Directly",
+    "pic_path": "blog/long_article_116_hire_offshore_software_developers_middleman_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_117_custom_software_development_firm_documentation.md",
+    "title": "The Documentation Deficit: Forcing Your Custom Software Development Firm to Write the Blueprint",
+    "pic_path": "blog/long_article_117_custom_software_development_firm_documentation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_118_offshore_software_development_company_qa.md",
+    "title": "The Automation Deficit: Evaluating Your Offshore Software Development Company\u2019s QA Matrix",
+    "pic_path": "blog/long_article_118_offshore_software_development_company_qa_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_119_it_outsourcing_company_cross_training.md",
+    "title": "The \"Single Point of Failure\" Trap: Why Your IT Outsourcing Company Needs Cross-Training Protocols",
+    "pic_path": "blog/long_article_119_it_outsourcing_company_cross_training_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_120_software_development_outsourcing_staging.md",
+    "title": "The Staging Environment Chaos: Solving the Testing Bottleneck in Software Development Outsourcing",
+    "pic_path": "blog/long_article_120_software_development_outsourcing_staging_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_121_outsource_web_development_react_vs_vanilla.md",
+    "title": "The React vs. Vanilla Javascript Trap: Front-End Architecture Decisions When You Outsource Web Development",
+    "pic_path": "blog/long_article_121_outsource_web_development_react_vs_vanilla_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_122_dedicated_development_team_jira_bugs.md",
+    "title": "The Jira Ticket Black Hole: Why Your Dedicated Development Team Is Ignoring Your Bugs",
+    "pic_path": "blog/long_article_122_dedicated_development_team_jira_bugs_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_123_offshore_software_development_services_code_freeze.md",
+    "title": "The \"Code Freeze\" Illusion: Eradicating Deployment Fear in Offshore Software Development Services",
+    "pic_path": "blog/long_article_123_offshore_software_development_services_code_freeze_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_124_software_product_engineering_open_source.md",
+    "title": "The Open-Source Vulnerability Attack: Securing Your Supply Chain in Software Product Engineering",
+    "pic_path": "blog/long_article_124_software_product_engineering_open_source_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_125_mobile_app_development_services_offline.md",
+    "title": "The Offline Mode Mandate: Why Your Mobile App Development Services Need Local-First Architecture",
+    "pic_path": "blog/long_article_125_mobile_app_development_services_offline_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_126_hire_offshore_software_developers_resume_fraud.md",
+    "title": "The Resume Fraud Epidemic: How to Mathematically Verify When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_126_hire_offshore_software_developers_resume_fraud_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_127_custom_software_development_firm_database.md",
+    "title": "The Database Lock-In Trap: Preventing Vendor Extortion from Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_127_custom_software_development_firm_database_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_128_offshore_software_development_company_code_review.md",
+    "title": "The Code Review Charade: Forcing Your Offshore Software Development Company to Audit Themselves",
+    "pic_path": "blog/long_article_128_offshore_software_development_company_code_review_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_129_it_outsourcing_company_agile_theater.md",
+    "title": "The \"Agile Theater\" Trap: Why Your IT Outsourcing Company Is Faking Scrum",
+    "pic_path": "blog/long_article_129_it_outsourcing_company_agile_theater_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_130_software_development_outsourcing_environment_drift.md",
+    "title": "The Production Environment Drift: Solving Server Discrepancies in Software Development Outsourcing",
+    "pic_path": "blog/long_article_130_software_development_outsourcing_environment_drift_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_131_outsource_web_development_core_web_vitals.md",
+    "title": "The SEO Extinction Event: Auditing Core Web Vitals When You Outsource Web Development",
+    "pic_path": "blog/long_article_131_outsource_web_development_core_web_vitals_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_132_dedicated_development_team_knowledge_silos.md",
+    "title": "The \"Knowledge Silo\" Trap: Mandating Tech Talks from Your Dedicated Development Team",
+    "pic_path": "blog/long_article_132_dedicated_development_team_knowledge_silos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_133_offshore_software_development_services_spaghetti_code.md",
+    "title": "The \"Spaghetti Code\" Audit: Enforcing Cyclomatic Complexity Limits in Offshore Software Development Services",
+    "pic_path": "blog/long_article_133_offshore_software_development_services_spaghetti_code_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_134_software_product_engineering_feature_flags.md",
+    "title": "The Feature Flag Architecture: Eradicating Launch Risk in Software Product Engineering",
+    "pic_path": "blog/long_article_134_software_product_engineering_feature_flags_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_135_mobile_app_development_services_dark_mode.md",
+    "title": "The \"Dark Mode\" Disaster: Why Color Science Matters in Mobile App Development Services",
+    "pic_path": "blog/long_article_135_mobile_app_development_services_dark_mode_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_136_hire_offshore_software_developers_not_invented_here.md",
+    "title": "The \"Not Invented Here\" Syndrome: Evaluating Open-Source Acceptance When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_136_hire_offshore_software_developers_not_invented_here_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_137_custom_software_development_firm_api_fallback.md",
+    "title": "The 3rd-Party API Blackout: Mandating Fallback Architecture from Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_137_custom_software_development_firm_api_fallback_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_138_offshore_software_development_company_load_testing.md",
+    "title": "The Load Testing Illusion: Why Your Offshore Software Development Company Fails Under Peak Traffic",
+    "pic_path": "blog/long_article_138_offshore_software_development_company_load_testing_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_139_it_outsourcing_company_security_misconfiguration.md",
+    "title": "The Security Misconfiguration Trap: Auditing AWS Roles in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_139_it_outsourcing_company_security_misconfiguration_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_140_software_development_outsourcing_technical_debt.md",
+    "title": "The Technical Debt Singularity: Measuring Code Rot in Software Development Outsourcing",
+    "pic_path": "blog/long_article_140_software_development_outsourcing_technical_debt_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_141_outsource_web_development_framework_fatigue.md",
+    "title": "The \"Framework Fatigue\" Trap: Choosing Long-Term Tech Stacks When You Outsource Web Development",
+    "pic_path": "blog/long_article_141_outsource_web_development_framework_fatigue_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_142_dedicated_development_team_zombie_standup.md",
+    "title": "The Zombie Standup: Why Your Dedicated Development Team Is Hiding Blockers",
+    "pic_path": "blog/long_article_142_dedicated_development_team_zombie_standup_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_143_offshore_software_development_services_cicd.md",
+    "title": "The CI/CD Bottleneck: Eradicating Manual QA in Offshore Software Development Services",
+    "pic_path": "blog/long_article_143_offshore_software_development_services_cicd_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_144_software_product_engineering_scalability.md",
+    "title": "The Scalability Fallacy: Why Software Product Engineering Doesn't Mean Infinite Users",
+    "pic_path": "blog/long_article_144_software_product_engineering_scalability_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_145_mobile_app_development_services_app_store_reject.md",
+    "title": "The \"App Store Reject\" Disaster: Surviving Apple's Review Process in Mobile App Development Services",
+    "pic_path": "blog/long_article_145_mobile_app_development_services_app_store_reject_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_146_hire_offshore_software_developers_onboarding.md",
+    "title": "The Onboarding Paradox: Why You Lose 30% of Capital When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_146_hire_offshore_software_developers_onboarding_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_147_custom_software_development_firm_source_code_escrow.md",
+    "title": "The Source Code Escrow: Legal Architecture for Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_147_custom_software_development_firm_source_code_escrow_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_148_offshore_software_development_company_latency_edge.md",
+    "title": "The Latency Tax: Why Your Offshore Software Development Company Needs Edge Computing",
+    "pic_path": "blog/long_article_148_offshore_software_development_company_latency_edge_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_149_it_outsourcing_company_shadow_it.md",
+    "title": "The \"Shadow IT\" Infection: Auditing Rogue Vendors in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_149_it_outsourcing_company_shadow_it_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_150_software_development_outsourcing_single_sign_on.md",
+    "title": "The \"Single Sign-On\" Mandate: Forcing SAML Compliance in Software Development Outsourcing",
+    "pic_path": "blog/long_article_150_software_development_outsourcing_single_sign_on_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_151_outsource_web_development_third_party_cookies.md",
+    "title": "The \"Third-Party Cookie\" Collapse: Auditing Privacy Architectures When You Outsource Web Development",
+    "pic_path": "blog/long_article_151_outsource_web_development_third_party_cookies_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_152_dedicated_development_team_pull_request_bottleneck.md",
+    "title": "The \"Pull Request\" Bottleneck: Enforcing Merge Velocity in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_152_dedicated_development_team_pull_request_bottleneck_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_153_offshore_software_development_services_database_deadlock.md",
+    "title": "The Database Deadlock: Eradicating Contention in Offshore Software Development Services",
+    "pic_path": "blog/long_article_153_offshore_software_development_services_database_deadlock_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_154_software_product_engineering_feature_toggles.md",
+    "title": "The Feature Toggle Paradox: Why Temporary Code Becomes Permanent in Software Product Engineering",
+    "pic_path": "blog/long_article_154_software_product_engineering_feature_toggles_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_155_mobile_app_development_services_offline_sync.md",
+    "title": "The Offline Sync Disaster: Architecting Data Conflicts in Mobile App Development Services",
+    "pic_path": "blog/long_article_155_mobile_app_development_services_offline_sync_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_156_hire_offshore_software_developers_localization_debt.md",
+    "title": "The Translation Tax: Calculating Localization Debt When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_156_hire_offshore_software_developers_localization_debt_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_157_custom_software_development_firm_pagination_paradox.md",
+    "title": "The Pagination Paradox: Why Your Custom Software Development Firm's Dashboard Is Crashing",
+    "pic_path": "blog/long_article_157_custom_software_development_firm_pagination_paradox_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_158_offshore_software_development_company_orm_trap.md",
+    "title": "The Object-Relational Mapping (ORM) Trap: Hand-Writing SQL in Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_158_offshore_software_development_company_orm_trap_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_159_it_outsourcing_company_structured_logging.md",
+    "title": "The Log Pollution Crisis: Enforcing Structured Logging in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_159_it_outsourcing_company_structured_logging_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_160_software_development_outsourcing_multi_tenancy.md",
+    "title": "The \"Single Tenant\" Nightmare: Architecting Multi-Tenancy in Software Development Outsourcing",
+    "pic_path": "blog/long_article_160_software_development_outsourcing_multi_tenancy_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_161_outsource_web_development_css_architecture.md",
+    "title": "The \"CSS Specificity\" War: Auditing Style Architecture When You Outsource Web Development",
+    "pic_path": "blog/long_article_161_outsource_web_development_css_architecture_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_162_dedicated_development_team_api_deprecation.md",
+    "title": "The Zombie API: Enforcing Deprecation Timelines in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_162_dedicated_development_team_api_deprecation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_163_offshore_software_development_services_timezone_logic.md",
+    "title": "The \"Timezone Logic\" Disaster: Storing Temporal Data in Offshore Software Development Services",
+    "pic_path": "blog/long_article_163_offshore_software_development_services_timezone_logic_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_164_software_product_engineering_idempotency_key.md",
+    "title": "The Idempotency Key: Eradicating Duplicate Transactions in Software Product Engineering",
+    "pic_path": "blog/long_article_164_software_product_engineering_idempotency_key_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_165_mobile_app_development_services_memory_leak.md",
+    "title": "The Memory Leak Assassin: Enforcing Garbage Collection in Mobile App Development Services",
+    "pic_path": "blog/long_article_165_mobile_app_development_services_memory_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_166_hire_offshore_software_developers_git_flow.md",
+    "title": "The Branching Nightmare: Eradicating \"Git Flow\" When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_166_hire_offshore_software_developers_git_flow_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_167_custom_software_development_firm_state_management.md",
+    "title": "The State Management Illusion: Architecting Redux in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_167_custom_software_development_firm_state_management_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_168_offshore_software_development_company_serverless_cold_start.md",
+    "title": "The \"Cold Start\" Catastrophe: Surviving Serverless Deployments in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_168_offshore_software_development_company_serverless_cold_start_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_169_it_outsourcing_company_jwt_security.md",
+    "title": "The JWT Expiration Hack: Securing Session Tokens in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_169_it_outsourcing_company_jwt_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_170_software_development_outsourcing_api_rate_limits.md",
+    "title": "The API Rate Limit Crisis: Protecting Your Backend in Software Development Outsourcing",
+    "pic_path": "blog/long_article_170_software_development_outsourcing_api_rate_limits_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_171_outsource_web_development_dns_architecture.md",
+    "title": "The \"Single Point of Failure\" DNS: Securing Domain Architecture When You Outsource Web Development",
+    "pic_path": "blog/long_article_171_outsource_web_development_dns_architecture_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_172_dedicated_development_team_docker_compose.md",
+    "title": "The Docker Compose Law: Enforcing Local Environments in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_172_dedicated_development_team_docker_compose_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_173_offshore_software_development_services_flaky_tests.md",
+    "title": "The CI/CD \"Flaky Test\" Virus: Quarantining Test Suites in Offshore Software Development Services",
+    "pic_path": "blog/long_article_173_offshore_software_development_services_flaky_tests_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_174_software_product_engineering_webhooks.md",
+    "title": "The Webhook Web: Architecting Asynchronous Events in Software Product Engineering",
+    "pic_path": "blog/long_article_174_software_product_engineering_webhooks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_175_mobile_app_development_services_payload_size.md",
+    "title": "The Payload Size Limit: Compressing Backend Responses in Mobile App Development Services",
+    "pic_path": "blog/long_article_175_mobile_app_development_services_payload_size_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_176_hire_offshore_software_developers_sdk_risk.md",
+    "title": "The Third-Party SDK Risk: Auditing Dependency Vulnerabilities When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_176_hire_offshore_software_developers_sdk_risk_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_177_custom_software_development_firm_typescript.md",
+    "title": "The Null Pointer Exception: Enforcing TypeScript in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_177_custom_software_development_firm_typescript_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_178_offshore_software_development_company_message_queues.md",
+    "title": "The Background Job Black Hole: Architecting Message Queues in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_178_offshore_software_development_company_message_queues_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_179_it_outsourcing_company_cors_security.md",
+    "title": "The CORS Misconfiguration: Securing Cross-Origin Requests in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_179_it_outsourcing_company_cors_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_180_software_development_outsourcing_data_anonymization.md",
+    "title": "The Staging Data Leak: Anonymizing Production Backups in Software Development Outsourcing",
+    "pic_path": "blog/long_article_180_software_development_outsourcing_data_anonymization_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_181_outsource_web_development_spa_seo.md",
+    "title": "The \"Single Page Application\" SEO Trap: Server-Side Rendering When You Outsource Web Development",
+    "pic_path": "blog/long_article_181_outsource_web_development_spa_seo_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_182_dedicated_development_team_api_secrets.md",
+    "title": "The Secret API Key: Eradicating Hardcoded Secrets in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_182_dedicated_development_team_api_secrets_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_183_offshore_software_development_services_floating_point.md",
+    "title": "The Floating Point Error: Architecting Currency Mathematics in Offshore Software Development Services",
+    "pic_path": "blog/long_article_183_offshore_software_development_services_floating_point_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_184_software_product_engineering_websockets.md",
+    "title": "The Websocket Waterfall: Scaling Real-Time Connections in Software Product Engineering",
+    "pic_path": "blog/long_article_184_software_product_engineering_websockets_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_185_mobile_app_development_services_push_notifications.md",
+    "title": "The Zombie Push Notification: Architecting Device Tokens in Mobile App Development Services",
+    "pic_path": "blog/long_article_185_mobile_app_development_services_push_notifications_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_186_hire_offshore_software_developers_soft_delete.md",
+    "title": "The \"Hard Delete\" Liability: Mandating Soft Deletes When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_186_hire_offshore_software_developers_soft_delete_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_187_custom_software_development_firm_react_useeffect.md",
+    "title": "The Infinite Loop Trap: Preventing `useEffect` Disasters in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_187_custom_software_development_firm_react_useeffect_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_188_offshore_software_development_company_god_object.md",
+    "title": "The \"God Object\" Anti-Pattern: Breaking Monoliths in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_188_offshore_software_development_company_god_object_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_189_it_outsourcing_company_cicd_secrets.md",
+    "title": "The Environment Variable Leak: Securing CI/CD Pipelines in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_189_it_outsourcing_company_cicd_secrets_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_190_software_development_outsourcing_database_indexing.md",
+    "title": "The Missing Index Crisis: Auditing Database Performance in Software Development Outsourcing",
+    "pic_path": "blog/long_article_190_software_development_outsourcing_database_indexing_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_191_outsource_web_development_graphql_n1.md",
+    "title": "The \"N+1\" GraphQL Disaster: Defending Against Deep Queries When You Outsource Web Development",
+    "pic_path": "blog/long_article_191_outsource_web_development_graphql_n1_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_192_dedicated_development_team_docker_bloat.md",
+    "title": "The Docker Image Bloat: Optimizing Container Sizes in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_192_dedicated_development_team_docker_bloat_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_193_offshore_software_development_services_feature_flags.md",
+    "title": "The Feature Flag Debt: Sunsetting Toggles in Offshore Software Development Services",
+    "pic_path": "blog/long_article_193_offshore_software_development_services_feature_flags_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_194_software_product_engineering_redis_cache.md",
+    "title": "The Redis Memory Eviction: Architecting Cache Policies in Software Product Engineering",
+    "pic_path": "blog/long_article_194_software_product_engineering_redis_cache_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_195_mobile_app_development_services_deep_linking.md",
+    "title": "The Deep Link Hijack: Securing App Routing in Mobile App Development Services",
+    "pic_path": "blog/long_article_195_mobile_app_development_services_deep_linking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_196_hire_offshore_software_developers_npm_security.md",
+    "title": "The Phantom Dependency: Securing `package.json` When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_196_hire_offshore_software_developers_npm_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_197_custom_software_development_firm_cors_security.md",
+    "title": "The CORS Misconfiguration: Securing Cross-Origin Requests in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_197_custom_software_development_firm_cors_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_198_offshore_software_development_company_jwt_security.md",
+    "title": "The JWT Secret Exposure: Architecting Auth Tokens in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_198_offshore_software_development_company_jwt_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_199_it_outsourcing_company_race_conditions.md",
+    "title": "The Race Condition: Locking Database Rows in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_199_it_outsourcing_company_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_200_software_development_outsourcing_s3_security.md",
+    "title": "The S3 Bucket Leak: Architecting Cloud Storage in Software Development Outsourcing",
+    "pic_path": "blog/long_article_200_software_development_outsourcing_s3_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_201_outsource_web_development_nodejs_memory_leak.md",
+    "title": "The Memory Leak Silencer: Profiling Node.js When You Outsource Web Development",
+    "pic_path": "blog/long_article_201_outsource_web_development_nodejs_memory_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_202_dedicated_development_team_third_party_scripts.md",
+    "title": "The Third-Party Tracking Tax: Securing Analytics in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_202_dedicated_development_team_third_party_scripts_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_203_offshore_software_development_services_sql_pagination.md",
+    "title": "The Pagination Paradox: Avoiding OFFSET Disasters in Offshore Software Development Services",
+    "pic_path": "blog/long_article_203_offshore_software_development_services_sql_pagination_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_204_software_product_engineering_webhook_idempotency.md",
+    "title": "The Idempotency Crisis: Architecting Webhooks in Software Product Engineering",
+    "pic_path": "blog/long_article_204_software_product_engineering_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_205_mobile_app_development_services_battery_drain.md",
+    "title": "The Battery Drain Trap: Optimizing Background Tasks in Mobile App Development Services",
+    "pic_path": "blog/long_article_205_mobile_app_development_services_battery_drain_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_206_hire_offshore_software_developers_high_availability.md",
+    "title": "The \"Floating\" IP Disaster: Architecting High Availability When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_206_hire_offshore_software_developers_high_availability_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_207_custom_software_development_firm_database_deadlock.md",
+    "title": "The Database Deadlock: Eradicating Concurrent Transactions in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_207_custom_software_development_firm_database_deadlock_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_208_offshore_software_development_company_zombie_process.md",
+    "title": "The Zombie Process: Managing Linux Daemon Lifecycles in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_208_offshore_software_development_company_zombie_process_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_209_it_outsourcing_company_api_payload_bloat.md",
+    "title": "The Payload Bloat: Optimizing JSON Serialization in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_209_it_outsourcing_company_api_payload_bloat_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_210_software_development_outsourcing_cache_stampede.md",
+    "title": "The Cache Stampede: Protecting the Database in Software Development Outsourcing",
+    "pic_path": "blog/long_article_210_software_development_outsourcing_cache_stampede_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_211_outsource_web_development_css_architecture.md",
+    "title": "The CSS Global Scope Disaster: Architecting Styles When You Outsource Web Development",
+    "pic_path": "blog/long_article_211_outsource_web_development_css_architecture_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_212_dedicated_development_team_message_queue_architecture.md",
+    "title": "The Unbounded Queue: Managing Message Brokers in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_212_dedicated_development_team_message_queue_architecture_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_213_offshore_software_development_services_sql_select_star.md",
+    "title": "The \"SELECT *\" Tax: Eradicating Database Bloat in Offshore Software Development Services",
+    "pic_path": "blog/long_article_213_offshore_software_development_services_sql_select_star_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_214_software_product_engineering_docker_oom.md",
+    "title": "The OOM Kill: Profiling Container Memory in Software Product Engineering",
+    "pic_path": "blog/long_article_214_software_product_engineering_docker_oom_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_215_mobile_app_development_services_ui_thread_freeze.md",
+    "title": "The UI Thread Freeze: Optimizing Asynchronous Rendering in Mobile App Development Services",
+    "pic_path": "blog/long_article_215_mobile_app_development_services_ui_thread_freeze_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_216_hire_offshore_software_developers_service_discovery.md",
+    "title": "The Hardcoded IP: Architecting Service Discovery When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_216_hire_offshore_software_developers_service_discovery_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_217_custom_software_development_firm_api_timeout.md",
+    "title": "The 504 Timeout Trap: Handling Long-Running APIs in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_217_custom_software_development_firm_api_timeout_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_218_offshore_software_development_company_circular_dependency.md",
+    "title": "The Dependency Cycle: Resolving Circular Imports in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_218_offshore_software_development_company_circular_dependency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_219_it_outsourcing_company_secret_rotation.md",
+    "title": "The Secret Rotation Crisis: Architecting Zero-Downtime Keys in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_219_it_outsourcing_company_secret_rotation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_220_software_development_outsourcing_foreign_keys.md",
+    "title": "The Missing Foreign Key: Eradicating Orphaned Data in Software Development Outsourcing",
+    "pic_path": "blog/long_article_220_software_development_outsourcing_foreign_keys_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_221_outsource_web_development_css_tailwind_purge.md",
+    "title": "The CSS Payload Bloat: Architecting Tailwind When You Outsource Web Development",
+    "pic_path": "blog/long_article_221_outsource_web_development_css_tailwind_purge_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_222_dedicated_development_team_nodejs_promise_rejection.md",
+    "title": "The Uncaught Promise: Catching Silent Failures in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_222_dedicated_development_team_nodejs_promise_rejection_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_223_offshore_software_development_services_aws_iam_s3.md",
+    "title": "The S3 Permission Denied: Debugging IAM Roles in Offshore Software Development Services",
+    "pic_path": "blog/long_article_223_offshore_software_development_services_aws_iam_s3_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_224_software_product_engineering_redis_eviction.md",
+    "title": "The Redis Eviction Policy: Protecting the Cache in Software Product Engineering",
+    "pic_path": "blog/long_article_224_software_product_engineering_redis_eviction_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_225_mobile_app_development_services_react_native_bridge.md",
+    "title": "The React Native Bridge Bottleneck: Optimizing Animations in Mobile App Development Services",
+    "pic_path": "blog/long_article_225_mobile_app_development_services_react_native_bridge_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_226_hire_offshore_software_developers_environment_parity.md",
+    "title": "The Environment Parity Myth: Architecting Local Development When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_226_hire_offshore_software_developers_environment_parity_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_227_custom_software_development_firm_bigint.md",
+    "title": "The Integer Overflow: Validating BigInts in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_227_custom_software_development_firm_bigint_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_228_offshore_software_development_company_event_loop.md",
+    "title": "The Hot Loop CPU Spike: Profiling Event Loops in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_228_offshore_software_development_company_event_loop_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_229_it_outsourcing_company_sql_foreign_key_index.md",
+    "title": "The Unindexed Foreign Key: Eradicating Cascading Scans in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_229_it_outsourcing_company_sql_foreign_key_index_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_230_software_development_outsourcing_websocket_memory_leak.md",
+    "title": "The WebSocket Memory Leak: Architecting Real-Time Connections in Software Development Outsourcing",
+    "pic_path": "blog/long_article_230_software_development_outsourcing_websocket_memory_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_231_outsource_web_development_font_optimization.md",
+    "title": "The Render-Blocking Font: Optimizing Web Fonts When You Outsource Web Development",
+    "pic_path": "blog/long_article_231_outsource_web_development_font_optimization_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_232_dedicated_development_team_regex_redos.md",
+    "title": "The Unbounded Regex: Preventing ReDoS Attacks in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_232_dedicated_development_team_regex_redos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_233_offshore_software_development_services_postgresql_connections.md",
+    "title": "The Connection Pool Exhaustion: Scaling PostgreSQL in Offshore Software Development Services",
+    "pic_path": "blog/long_article_233_offshore_software_development_services_postgresql_connections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_234_software_product_engineering_react_state_mutation.md",
+    "title": "The State Mutation Glitch: Architecting Immutability in Software Product Engineering",
+    "pic_path": "blog/long_article_234_software_product_engineering_react_state_mutation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_235_mobile_app_development_services_ios_gcd_deadlock.md",
+    "title": "The Grand Central Dispatch Deadlock: Managing Concurrency in Mobile App Development Services",
+    "pic_path": "blog/long_article_235_mobile_app_development_services_ios_gcd_deadlock_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_236_hire_offshore_software_developers_timezone_utc.md",
+    "title": "The Hardcoded Timezone: Architecting UTC When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_236_hire_offshore_software_developers_timezone_utc_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_237_custom_software_development_firm_react_useeffect_loop.md",
+    "title": "The 100% CPU Render Loop: Optimizing React `useEffect` in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_237_custom_software_development_firm_react_useeffect_loop_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_238_offshore_software_development_company_kubernetes_liveness_probe.md",
+    "title": "The Zombie Kubernetes Pod: Configuring Liveness Probes in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_238_offshore_software_development_company_kubernetes_liveness_probe_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_239_it_outsourcing_company_graphql_n1_dataloader.md",
+    "title": "The N+1 GraphQL Problem: Implementing Dataloader in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_239_it_outsourcing_company_graphql_n1_dataloader_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_240_software_development_outsourcing_api_rate_limiting.md",
+    "title": "The Missing Rate Limit: Preventing DDoS in Software Development Outsourcing",
+    "pic_path": "blog/long_article_240_software_development_outsourcing_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_241_outsource_web_development_javascript_defer.md",
+    "title": "The Render-Blocking Javascript: Deferring Scripts When You Outsource Web Development",
+    "pic_path": "blog/long_article_241_outsource_web_development_javascript_defer_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_242_dedicated_development_team_kms_key_rotation.md",
+    "title": "The Secret Rotation Crisis: Managing KMS Keys in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_242_dedicated_development_team_kms_key_rotation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_243_offshore_software_development_services_transaction_isolation.md",
+    "title": "The Dirty Read: Enforcing Transaction Isolation in Offshore Software Development Services",
+    "pic_path": "blog/long_article_243_offshore_software_development_services_transaction_isolation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_244_software_product_engineering_layout_thrashing.md",
+    "title": "The Layout Thrashing Glitch: Optimizing the DOM in Software Product Engineering",
+    "pic_path": "blog/long_article_244_software_product_engineering_layout_thrashing_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_245_mobile_app_development_services_swift_retain_cycle.md",
+    "title": "The Memory Leak Silencer: Profiling Retain Cycles in Mobile App Development Services",
+    "pic_path": "blog/long_article_245_mobile_app_development_services_swift_retain_cycle_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_246_hire_offshore_software_developers_cors_security.md",
+    "title": "The CORS Misconfiguration: Securing Web APIs When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_246_hire_offshore_software_developers_cors_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_247_custom_software_development_firm_jwt_secret.md",
+    "title": "The JWT Secret Exposure: Architecting Auth in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_247_custom_software_development_firm_jwt_secret_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_248_offshore_software_development_company_race_condition.md",
+    "title": "The Race Condition: Enforcing Row Locks in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_248_offshore_software_development_company_race_condition_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_249_it_outsourcing_company_aws_s3_security.md",
+    "title": "The S3 Bucket Leak: Automating Cloud Security in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_249_it_outsourcing_company_aws_s3_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_250_software_development_outsourcing_nodejs_memory_leak.md",
+    "title": "The Memory Leak Silencer: Profiling Node.js in Software Development Outsourcing",
+    "pic_path": "blog/long_article_250_software_development_outsourcing_nodejs_memory_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_251_outsource_web_development_css_critical_path.md",
+    "title": "The Render-Blocking CSS: Critical Path Optimization When You Outsource Web Development",
+    "pic_path": "blog/long_article_251_outsource_web_development_css_critical_path_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_252_dedicated_development_team_docker_zombie_process.md",
+    "title": "The Zombie Process: Managing Docker Daemons in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_252_dedicated_development_team_docker_zombie_process_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_253_offshore_software_development_services_battery_drain.md",
+    "title": "The Battery Drain Trap: Architecting Background Tasks in Offshore Software Development Services",
+    "pic_path": "blog/long_article_253_offshore_software_development_services_battery_drain_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_254_software_product_engineering_css_modules.md",
+    "title": "The CSS Global Scope Disaster: Enforcing CSS Modules in Software Product Engineering",
+    "pic_path": "blog/long_article_254_software_product_engineering_css_modules_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_255_mobile_app_development_services_keyset_pagination.md",
+    "title": "The Pagination Paradox: Implementing Keyset Pagination in Mobile App Development Services",
+    "pic_path": "blog/long_article_255_mobile_app_development_services_keyset_pagination_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_256_hire_offshore_software_developers_webhook_idempotency.md",
+    "title": "The Idempotency Crisis: Handling Webhooks When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_256_hire_offshore_software_developers_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_257_custom_software_development_firm_async_queue_timeout.md",
+    "title": "The 504 Timeout Trap: Architecting Async Queues in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_257_custom_software_development_firm_async_queue_timeout_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_258_offshore_software_development_company_service_discovery.md",
+    "title": "The Hardcoded IP: Automating Service Discovery in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_258_offshore_software_development_company_service_discovery_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_259_it_outsourcing_company_sql_select_star.md",
+    "title": "The SELECT * Tax: Eradicating Network Bloat in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_259_it_outsourcing_company_sql_select_star_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_260_software_development_outsourcing_foreign_key_integrity.md",
+    "title": "The Missing Foreign Key: Preventing Orphaned Data in Software Development Outsourcing",
+    "pic_path": "blog/long_article_260_software_development_outsourcing_foreign_key_integrity_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_261_outsource_web_development_javascript_async_defer.md",
+    "title": "The Render-Blocking Script: Async Javascript Loading When You Outsource Web Development",
+    "pic_path": "blog/long_article_261_outsource_web_development_javascript_async_defer_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_262_dedicated_development_team_nodejs_uncaught_exception.md",
+    "title": "The Uncaught Exception: Stabilizing Node.js in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_262_dedicated_development_team_nodejs_uncaught_exception_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_263_offshore_software_development_services_algorithmic_scaling.md",
+    "title": "The O(N) Loop: Algorithmic Scaling in Offshore Software Development Services",
+    "pic_path": "blog/long_article_263_offshore_software_development_services_algorithmic_scaling_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_264_software_product_engineering_aws_s3_security.md",
+    "title": "The S3 Public Read: Sealing Cloud Storage in Software Product Engineering",
+    "pic_path": "blog/long_article_264_software_product_engineering_aws_s3_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_265_mobile_app_development_services_react_native_ui_thread.md",
+    "title": "The UI Thread Block: Ensuring 60FPS in Mobile App Development Services",
+    "pic_path": "blog/long_article_265_mobile_app_development_services_react_native_ui_thread_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_266_hire_offshore_software_developers_n_plus_1_query.md",
+    "title": "The N+1 Query Disaster: Taming the ORM When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_266_hire_offshore_software_developers_n_plus_1_query_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_267_custom_software_development_firm_git_secret_leak.md",
+    "title": "The Secret Key Commit: Preventing Credential Leaks in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_267_custom_software_development_firm_git_secret_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_268_offshore_software_development_company_redos_regex.md",
+    "title": "The Unbounded Regex: Defending Against ReDoS in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_268_offshore_software_development_company_redos_regex_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_269_it_outsourcing_company_float_precision_math.md",
+    "title": "The Float Precision Bug: Engineering Financial Math in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_269_it_outsourcing_company_float_precision_math_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_270_software_development_outsourcing_api_rate_limiting.md",
+    "title": "The Missing Rate Limit: Stopping API Abuse in Software Development Outsourcing",
+    "pic_path": "blog/long_article_270_software_development_outsourcing_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_271_outsource_web_development_dom_reflow.md",
+    "title": "The DOM Reflow: Fixing Layout Thrashing When You Outsource Web Development",
+    "pic_path": "blog/long_article_271_outsource_web_development_dom_reflow_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_272_dedicated_development_team_docker_image_bloat.md",
+    "title": "The Docker Image Bloat: Optimizing Alpine Builds in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_272_dedicated_development_team_docker_image_bloat_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_273_offshore_software_development_services_dirty_read.md",
+    "title": "The Dirty Read: Enforcing Transaction Isolation in Offshore Software Development Services",
+    "pic_path": "blog/long_article_273_offshore_software_development_services_dirty_read_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_274_software_product_engineering_redux_mutation.md",
+    "title": "The State Mutation Glitch: Mastering Redux in Software Product Engineering",
+    "pic_path": "blog/long_article_274_software_product_engineering_redux_mutation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_275_mobile_app_development_services_connection_pool.md",
+    "title": "The Connection Pool Exhaustion: Scaling PostgreSQL in Mobile App Development Services",
+    "pic_path": "blog/long_article_275_mobile_app_development_services_connection_pool_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_276_hire_offshore_software_developers_nodejs_event_loop.md",
+    "title": "The Synchronous Block: Scaling Event Loops When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_276_hire_offshore_software_developers_nodejs_event_loop_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_277_custom_software_development_firm_timezone_utc_bug.md",
+    "title": "The Hardcoded Timezone: Managing Global Dates in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_277_custom_software_development_firm_timezone_utc_bug_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_278_offshore_software_development_company_react_virtualization.md",
+    "title": "The 100% CPU Render: Virtualizing Lists in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_278_offshore_software_development_company_react_virtualization_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_279_it_outsourcing_company_kubernetes_zombie_pod.md",
+    "title": "The Zombie Kubernetes Pod: Enforcing Liveness Probes in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_279_it_outsourcing_company_kubernetes_zombie_pod_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_280_software_development_outsourcing_graphql_dataloader.md",
+    "title": "The N+1 GraphQL Bug: Implementing Dataloader in Software Development Outsourcing",
+    "pic_path": "blog/long_article_280_software_development_outsourcing_graphql_dataloader_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_281_outsource_web_development_font_display_swap.md",
+    "title": "The Render-Blocking Webfont: Optimizing FOUT in Outsource Web Development",
+    "pic_path": "blog/long_article_281_outsource_web_development_font_display_swap_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_282_dedicated_development_team_unbounded_queue_memory.md",
+    "title": "The Unbounded Queue: Managing Memory Leaks in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_282_dedicated_development_team_unbounded_queue_memory_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_283_offshore_software_development_services_missing_index.md",
+    "title": "The Missing Index: Optimizing Full Table Scans in Offshore Software Development Services",
+    "pic_path": "blog/long_article_283_offshore_software_development_services_missing_index_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_284_software_product_engineering_database_phantom_read.md",
+    "title": "The Phantom Read: Mastering Transaction Isolation in Software Product Engineering",
+    "pic_path": "blog/long_article_284_software_product_engineering_database_phantom_read_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_285_mobile_app_development_services_rest_overfetching.md",
+    "title": "The Over-Fetching Trap: REST vs GraphQL in Mobile App Development Services",
+    "pic_path": "blog/long_article_285_mobile_app_development_services_rest_overfetching_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_286_hire_offshore_software_developers_nodejs_synchronous_io.md",
+    "title": "The Synchronous I/O Block: Mastering File Streams When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_286_hire_offshore_software_developers_nodejs_synchronous_io_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_287_custom_software_development_firm_insecure_deserialization.md",
+    "title": "The Insecure Deserialization: Defending Payloads in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_287_custom_software_development_firm_insecure_deserialization_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_288_offshore_software_development_company_unhandled_promise.md",
+    "title": "The Orphaned Promise: Catching Async Errors in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_288_offshore_software_development_company_unhandled_promise_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_289_it_outsourcing_company_redis_cache_stampede.md",
+    "title": "The Cache Stampede: Locking Redis in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_289_it_outsourcing_company_redis_cache_stampede_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_290_software_development_outsourcing_cursor_pagination.md",
+    "title": "The Unpaginated API: Enforcing Cursors in Software Development Outsourcing",
+    "pic_path": "blog/long_article_290_software_development_outsourcing_cursor_pagination_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_291_outsource_web_development_iframe_render_blocking.md",
+    "title": "The Render-Blocking Iframe: Deferring Third-Party Scripts in Outsource Web Development",
+    "pic_path": "blog/long_article_291_outsource_web_development_iframe_render_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_292_dedicated_development_team_react_memory_leak.md",
+    "title": "The Zombie Event Listener: Fixing Memory Leaks in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_292_dedicated_development_team_react_memory_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_293_offshore_software_development_services_on2_nested_loop.md",
+    "title": "The O(N^2) Join: Optimizing Nested Loops in Offshore Software Development Services",
+    "pic_path": "blog/long_article_293_offshore_software_development_services_on2_nested_loop_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_294_software_product_engineering_stale_closure_react.md",
+    "title": "The Stale Closure: Mastering React Hooks in Software Product Engineering",
+    "pic_path": "blog/long_article_294_software_product_engineering_stale_closure_react_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_295_mobile_app_development_services_ui_thread_blocking.md",
+    "title": "The UI Thread Block: Offloading Calculations in Mobile App Development Services",
+    "pic_path": "blog/long_article_295_mobile_app_development_services_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_296_hire_offshore_software_developers_react_suspense.md",
+    "title": "The Synchronous Render: Avoiding Main Thread Locks When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_296_hire_offshore_software_developers_react_suspense_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_297_custom_software_development_firm_swr_stale_data.md",
+    "title": "The Stale Data Bug: Implementing SWR in Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_297_custom_software_development_firm_swr_stale_data_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_298_offshore_software_development_company_slow_query_log.md",
+    "title": "The Slow Query Log: Auditing Performance in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_298_offshore_software_development_company_slow_query_log_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_299_it_outsourcing_company_infinite_recursion_stack_overflow.md",
+    "title": "The Infinite Recursion: Catching Stack Overflows in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_299_it_outsourcing_company_infinite_recursion_stack_overflow_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_300_software_development_outsourcing_missing_dependency.md",
+    "title": "The Missing Dependency: Securing CI/CD in Software Development Outsourcing",
+    "pic_path": "blog/long_article_300_software_development_outsourcing_missing_dependency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_301_outsource_web_development_css_modules_scope.md",
+    "title": "The CSS Global Scope: Enforcing Modules in Outsource Web Development",
+    "pic_path": "blog/long_article_301_outsource_web_development_css_modules_scope_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_302_dedicated_development_team_docker_root_user.md",
+    "title": "The Docker Root User: Securing Containers in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_302_dedicated_development_team_docker_root_user_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_303_offshore_software_development_services_rate_limit_api.md",
+    "title": "The Missing Rate Limit: Preventing Brute Force in Offshore Software Development Services",
+    "pic_path": "blog/long_article_303_offshore_software_development_services_rate_limit_api_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_304_software_product_engineering_api_gateway_microservices.md",
+    "title": "The API Gateway Sprawl: Unifying Endpoints in Software Product Engineering",
+    "pic_path": "blog/long_article_304_software_product_engineering_api_gateway_microservices_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_305_mobile_app_development_services_deep_link_universal.md",
+    "title": "The Deep Link Trap: Routing Safely in Mobile App Development Services",
+    "pic_path": "blog/long_article_305_mobile_app_development_services_deep_link_universal_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_306_hire_offshore_software_developers_missing_index.md",
+    "title": "The Missing Index: Optimizing Databases When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_306_hire_offshore_software_developers_missing_index_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_307_custom_software_development_firm_hardcoded_secret.md",
+    "title": "The Hardcoded Secret: Securing Repositories in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_307_custom_software_development_firm_hardcoded_secret_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_308_offshore_software_development_company_zombie_process_docker.md",
+    "title": "The Zombie Process: Managing Docker Lifecycles in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_308_offshore_software_development_company_zombie_process_docker_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_309_it_outsourcing_company_synchronous_io_blocking.md",
+    "title": "The Synchronous I/O Block: Unlocking Node.js in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_309_it_outsourcing_company_synchronous_io_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_310_software_development_outsourcing_orphaned_promise.md",
+    "title": "The Orphaned Promise: Catching Async Errors in Software Development Outsourcing",
+    "pic_path": "blog/long_article_310_software_development_outsourcing_orphaned_promise_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_311_outsource_web_development_redis_cache_stampede.md",
+    "title": "The Cache Stampede: Protecting Redis in Outsource Web Development",
+    "pic_path": "blog/long_article_311_outsource_web_development_redis_cache_stampede_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_312_dedicated_development_team_unpaginated_api_oom.md",
+    "title": "The Unpaginated API: Scaling Endpoints in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_312_dedicated_development_team_unpaginated_api_oom_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_313_offshore_software_development_services_render_blocking_iframe.md",
+    "title": "The Render-Blocking Iframe: Optimizing Third-Parties in Offshore Software Development Services",
+    "pic_path": "blog/long_article_313_offshore_software_development_services_render_blocking_iframe_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_314_software_product_engineering_react_memory_leak.md",
+    "title": "The Zombie Event Listener: Managing React Memory in Software Product Engineering",
+    "pic_path": "blog/long_article_314_software_product_engineering_react_memory_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_315_mobile_app_development_services_sql_n_squared_join.md",
+    "title": "The O(N^2) Join: Querying Massive Data in Mobile App Development Services",
+    "pic_path": "blog/long_article_315_mobile_app_development_services_sql_n_squared_join_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_316_hire_offshore_software_developers_react_stale_closure.md",
+    "title": "The Stale Closure: Preventing React Bugs When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_316_hire_offshore_software_developers_react_stale_closure_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_317_custom_software_development_firm_ui_thread_blocking.md",
+    "title": "The UI Thread Block: Ensuring Smooth Animations in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_317_custom_software_development_firm_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_318_offshore_software_development_company_graphql_n_plus_one.md",
+    "title": "The Over-Fetching Trap: Optimizing GraphQL in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_318_offshore_software_development_company_graphql_n_plus_one_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_319_it_outsourcing_company_background_job_unbounded_queue.md",
+    "title": "The Unbounded Queue: Managing Background Jobs in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_319_it_outsourcing_company_background_job_unbounded_queue_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_320_software_development_outsourcing_database_connection_exhaustion.md",
+    "title": "The Missing Database Connection Limit: Preventing Connection Exhaustion in Software Development Outsourcing",
+    "pic_path": "blog/long_article_320_software_development_outsourcing_database_connection_exhaustion_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_321_outsource_web_development_render_blocking_webfont.md",
+    "title": "The Render-Blocking Webfont: Perfecting LCP in Outsource Web Development",
+    "pic_path": "blog/long_article_321_outsource_web_development_render_blocking_webfont_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_322_dedicated_development_team_insecure_deserialization_python.md",
+    "title": "The Insecure Deserialization: Stopping RCE in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_322_dedicated_development_team_insecure_deserialization_python_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_323_offshore_software_development_services_n_squared_array_find.md",
+    "title": "The O(N^2) Array Find: Algorithms at Scale in Offshore Software Development Services",
+    "pic_path": "blog/long_article_323_offshore_software_development_services_n_squared_array_find_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_324_software_product_engineering_dom_reflow_layout_thrashing.md",
+    "title": "The DOM Reflow: Fixing Scrolling Lag in Software Product Engineering",
+    "pic_path": "blog/long_article_324_software_product_engineering_dom_reflow_layout_thrashing_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_325_mobile_app_development_services_react_native_bridge_blocking.md",
+    "title": "The Main Thread Block: React Native Performance in Mobile App Development Services",
+    "pic_path": "blog/long_article_325_mobile_app_development_services_react_native_bridge_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_326_hire_offshore_software_developers_callback_hell.md",
+    "title": "The Callback Hell: Refactoring Node.js When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_326_hire_offshore_software_developers_callback_hell_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_327_custom_software_development_firm_regex_denial_of_service.md",
+    "title": "The Unbounded Regex: Preventing ReDoS in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_327_custom_software_development_firm_regex_denial_of_service_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_328_offshore_software_development_company_cors_wildcard_vulnerability.md",
+    "title": "The Missing CORS Origin: Securing APIs in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_328_offshore_software_development_company_cors_wildcard_vulnerability_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_329_it_outsourcing_company_phantom_read_database_bug.md",
+    "title": "The Phantom Read: Isolating Database Transactions in Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_329_it_outsourcing_company_phantom_read_database_bug_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_330_software_development_outsourcing_default_port_vulnerability.md",
+    "title": "The Default Port: Hardening Cloud Deployments in Software Development Outsourcing",
+    "pic_path": "blog/long_article_330_software_development_outsourcing_default_port_vulnerability_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_331_due_diligence_playbook.md",
+    "title": "The Due Diligence Playbook: A CTO's Audit for Vetting a Software Development Company",
+    "pic_path": "blog/long_article_331_due_diligence_playbook_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_331_outsource_web_development_memory_leak_v8_heap.md",
+    "title": "The Memory Leak: Diagnosing V8 Heap Exhaustion in Outsource Web Development",
+    "pic_path": "blog/long_article_331_outsource_web_development_memory_leak_v8_heap_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_332_tco_custom_software.md",
+    "title": "The Total Cost of Ownership (TCO) in Custom Software Development: Beyond the Initial Build",
+    "pic_path": "blog/long_article_332_tco_custom_software_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_332_dedicated_development_team_race_condition_javascript.md",
+    "title": "The Race Condition: Locking State in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_332_dedicated_development_team_race_condition_javascript_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_333_offshore_software_development_services_sequential_scan_database.md",
+    "title": "The O(N) SQL Scan: Indexing Architecture in Offshore Software Development Services",
+    "pic_path": "blog/long_article_333_offshore_software_development_services_sequential_scan_database_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_333_offline_first_mobile_apps.md",
+    "title": "The Architecture of \"Offline-First\" Mobile App Development for Field Operations",
+    "pic_path": "blog/long_article_333_offline_first_mobile_apps_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_334_hire_vietnam_vs_latam.md",
+    "title": "The Economics of Engineering: Why You Should Hire Software Developers in Vietnam Over Eastern Europe or LATAM",
+    "pic_path": "blog/long_article_334_hire_vietnam_vs_latam_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_334_software_product_engineering_event_emitter_leak.md",
+    "title": "The Event Emitter Leak: Fixing Node.js MaxListeners in Software Product Engineering",
+    "pic_path": "blog/long_article_334_software_product_engineering_event_emitter_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_335_zero_trust_web_apps.md",
+    "title": "Zero-Trust Security Architecture in Enterprise Web Application Development",
+    "pic_path": "blog/long_article_335_zero_trust_web_apps_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_335_mobile_app_development_services_image_decoding_block.md",
+    "title": "The Image Decoding Block: Mobile GPU Offloading in Mobile App Development Services",
+    "pic_path": "blog/long_article_335_mobile_app_development_services_image_decoding_block_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_336_hire_offshore_software_developers_infinite_loop_javascript.md",
+    "title": "The Infinite Loop: Breaking the Node.js Event Loop When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_336_hire_offshore_software_developers_infinite_loop_javascript_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_336_hybrid_agile_offshore.md",
+    "title": "The \"Hybrid Agile\" Framework: Modifying Scrum for Offshore Software Development",
+    "pic_path": "blog/long_article_336_hybrid_agile_offshore_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_337_custom_software_development_firm_unpaginated_json_overload.md",
+    "title": "The Unpaginated JSON: Overloading RAM in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_337_custom_software_development_firm_unpaginated_json_overload_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_337_vendor_lock_in_outsourcing.md",
+    "title": "The Vendor Lock-In Trap: How to Maintain Technical Sovereignty During IT Outsourcing",
+    "pic_path": "blog/long_article_337_vendor_lock_in_outsourcing_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_338_offshore_software_development_company_broken_foreign_key_orphaned_data.md",
+    "title": "The Broken Foreign Key: Orphaned Data in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_338_offshore_software_development_company_broken_foreign_key_orphaned_data_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_338_onboarding_staff_augmentation.md",
+    "title": "The Onboarding Blueprint: Integrating IT Staff Augmentation into an Existing DevOps Pipeline",
+    "pic_path": "blog/long_article_338_onboarding_staff_augmentation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_339_it_outsourcing_company_synchronous_crypto_event_loop.md",
+    "title": "The Synchronous Crypto: Freezing APIs in an IT Outsourcing Company",
+    "pic_path": "blog/long_article_339_it_outsourcing_company_synchronous_crypto_event_loop_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_339_kpis_dedicated_team.md",
+    "title": "Measuring the Unmeasurable: KPIs and Velocity Metrics for a Dedicated Development Team",
+    "pic_path": "blog/long_article_339_kpis_dedicated_team_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_340_software_development_outsourcing_uncaught_promise_rejection.md",
+    "title": "The Uncaught Promise: Crashing Servers in Software Development Outsourcing",
+    "pic_path": "blog/long_article_340_software_development_outsourcing_uncaught_promise_rejection_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_340_death_of_full_stack.md",
+    "title": "The Death of the \"Full Stack\" Developer and the Rise of Specialized Software Engineering",
+    "pic_path": "blog/long_article_340_death_of_full_stack_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_341_outsource_web_development_css_z_index_war.md",
+    "title": "The CSS Z-Index War: Refactoring Stacking Contexts in Outsource Web Development",
+    "pic_path": "blog/long_article_341_outsource_web_development_css_z_index_war_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_342_dedicated_development_team_unhashed_index_pii_security.md",
+    "title": "The Unhashed Index: Securing PII in Your Dedicated Development Team",
+    "pic_path": "blog/long_article_342_dedicated_development_team_unhashed_index_pii_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_343_offshore_software_development_services_s3_public_bucket.md",
+    "title": "The S3 Public Bucket: Hardening AWS in Offshore Software Development Services",
+    "pic_path": "blog/long_article_343_offshore_software_development_services_s3_public_bucket_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_344_software_product_engineering_jwt_replay_attack.md",
+    "title": "The JWT Replay: Validating Tokens in Software Product Engineering",
+    "pic_path": "blog/long_article_344_software_product_engineering_jwt_replay_attack_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_345_mobile_app_development_services_synchronous_storage_sqlite.md",
+    "title": "The Synchronous Storage: Fixing SQLite Locks in Mobile App Development Services",
+    "pic_path": "blog/long_article_345_mobile_app_development_services_synchronous_storage_sqlite_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_346_hire_offshore_software_developers_n_plus_one_graphql.md",
+    "title": "The Over-Fetched Graph: N+1 Queries in GraphQL When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_346_hire_offshore_software_developers_n_plus_one_graphql_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_347_custom_software_development_firm_uncaught_exception_nodejs.md",
+    "title": "The Uncaught Global Exception: Hard Crashing in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_347_custom_software_development_firm_uncaught_exception_nodejs_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_348_offshore_software_development_company_unbounded_rate_limit_api_abuse.md",
+    "title": "The Unbounded Rate Limit: API Abuse in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_348_offshore_software_development_company_unbounded_rate_limit_api_abuse_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_349_it_outsourcing_company_cleartext_log_pii_leak.md",
+    "title": "The Cleartext Log: PII Leaks in Datadog in an IT Outsourcing Company",
+    "pic_path": "blog/long_article_349_it_outsourcing_company_cleartext_log_pii_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_350_software_development_outsourcing_docker_image_bloat.md",
+    "title": "The Stale Container: Docker Image Bloat in Software Development Outsourcing",
+    "pic_path": "blog/long_article_350_software_development_outsourcing_docker_image_bloat_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_351_outsource_web_development_render_blocking_script_core_web_vitals.md",
+    "title": "The Render Blocking Script: Third-Party JS in Outsource Web Development",
+    "pic_path": "blog/long_article_351_outsource_web_development_render_blocking_script_core_web_vitals_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_352_dedicated_development_team_unencrypted_websocket_wss.md",
+    "title": "The Unencrypted WebSocket: Sniffing WSS in a Dedicated Development Team",
+    "pic_path": "blog/long_article_352_dedicated_development_team_unencrypted_websocket_wss_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_353_offshore_software_development_services_missing_index_table_scan.md",
+    "title": "The Missing Index: Full Table Scans in Offshore Software Development Services",
+    "pic_path": "blog/long_article_353_offshore_software_development_services_missing_index_table_scan_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_354_software_product_engineering_regex_denial_of_service.md",
+    "title": "The RegEx DoS: String Parsing in Software Product Engineering",
+    "pic_path": "blog/long_article_354_software_product_engineering_regex_denial_of_service_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_355_mobile_app_development_services_unmounted_component_memory_leak.md",
+    "title": "The Memory Leak: Unmounted Components in Mobile App Development Services",
+    "pic_path": "blog/long_article_355_mobile_app_development_services_unmounted_component_memory_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_356_hire_offshore_software_developers_synchronous_dns_resolution.md",
+    "title": "The Sync DNS Resolution: Blocking APIs When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_356_hire_offshore_software_developers_synchronous_dns_resolution_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_357_custom_software_development_firm_integer_overflow_javascript.md",
+    "title": "The Integer Overflow: Breaking Math in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_357_custom_software_development_firm_integer_overflow_javascript_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_358_offshore_software_development_company_orphaned_process_nodejs_leak.md",
+    "title": "The Orphaned Process: Forking Memory in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_358_offshore_software_development_company_orphaned_process_nodejs_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_359_it_outsourcing_company_global_variable_state_corruption.md",
+    "title": "The Global Variable: Corrupting State in an IT Outsourcing Company",
+    "pic_path": "blog/long_article_359_it_outsourcing_company_global_variable_state_corruption_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_360_software_development_outsourcing_unpinned_dependency_supply_chain.md",
+    "title": "The Unpinned Dependency: Supply Chain Attacks in Software Development Outsourcing",
+    "pic_path": "blog/long_article_360_software_development_outsourcing_unpinned_dependency_supply_chain_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_361_outsource_web_development_redis_default_port_security.md",
+    "title": "The Default Port: Exposing Redis in Outsource Web Development",
+    "pic_path": "blog/long_article_361_outsource_web_development_redis_default_port_security_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_362_dedicated_development_team_unpaginated_dropdown_react_crash.md",
+    "title": "The Unpaginated Dropdown: Crashing DOM in a Dedicated Development Team",
+    "pic_path": "blog/long_article_362_dedicated_development_team_unpaginated_dropdown_react_crash_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_363_offshore_software_development_services_blocking_middleware_express.md",
+    "title": "The Blocking Middleware: Destroying RPS in Offshore Software Development Services",
+    "pic_path": "blog/long_article_363_offshore_software_development_services_blocking_middleware_express_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_364_software_product_engineering_missing_csrf_protection_forgery.md",
+    "title": "The Missing CSRF: Forging Requests in Software Product Engineering",
+    "pic_path": "blog/long_article_364_software_product_engineering_missing_csrf_protection_forgery_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_365_mobile_app_development_services_cleartext_keystore_asyncstorage.md",
+    "title": "The Cleartext Keystore: Exposing Secrets in Mobile App Development Services",
+    "pic_path": "blog/long_article_365_mobile_app_development_services_cleartext_keystore_asyncstorage_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_366_hire_offshore_software_developers_synchronous_file_read.md",
+    "title": "The Sync File Read: Blocking the API When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_366_hire_offshore_software_developers_synchronous_file_read_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_367_custom_software_development_firm_unindexed_foreign_key_deadlock.md",
+    "title": "The Unindexed Foreign Key: Deadlocking PostgreSQL in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_367_custom_software_development_firm_unindexed_foreign_key_deadlock_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_368_offshore_software_development_company_memory_leak_closure.md",
+    "title": "The Memory Leak: Closures in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_368_offshore_software_development_company_memory_leak_closure_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_369_it_outsourcing_company_math_random_cryptography_breach.md",
+    "title": "The Math.random Hash: Weak Cryptography in an IT Outsourcing Company",
+    "pic_path": "blog/long_article_369_it_outsourcing_company_math_random_cryptography_breach_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_370_software_development_outsourcing_unbounded_json_body_crash.md",
+    "title": "The Unbounded JSON Body: Crashing Parsers in Software Development Outsourcing",
+    "pic_path": "blog/long_article_370_software_development_outsourcing_unbounded_json_body_crash_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_371_outsource_web_development_default_export_tree_shaking.md",
+    "title": "The Default Export: Breaking Tree Shaking in Outsource Web Development",
+    "pic_path": "blog/long_article_371_outsource_web_development_default_export_tree_shaking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_372_dedicated_development_team_zombie_event_listener_react.md",
+    "title": "The Zombie Event Listener: React Memory Leaks in a Dedicated Development Team",
+    "pic_path": "blog/long_article_372_dedicated_development_team_zombie_event_listener_react_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_373_offshore_software_development_services_missing_rate_limit_api.md",
+    "title": "The Missing Rate Limit: Brute Force Attacks in Offshore Software Development Services",
+    "pic_path": "blog/long_article_373_offshore_software_development_services_missing_rate_limit_api_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_374_software_product_engineering_plaintext_password_hash.md",
+    "title": "The Plaintext Password: Database Breaches in Software Product Engineering",
+    "pic_path": "blog/long_article_374_software_product_engineering_plaintext_password_hash_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_375_mobile_app_development_services_hardcoded_api_key_reverse_engineering.md",
+    "title": "The Hardcoded API Key: Reverse Engineering in Mobile App Development Services",
+    "pic_path": "blog/long_article_375_mobile_app_development_services_hardcoded_api_key_reverse_engineering_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_376_hire_offshore_software_developers_missing_index_postgresql.md",
+    "title": "The Missing Index: Full Table Scans When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_376_hire_offshore_software_developers_missing_index_postgresql_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_377_custom_software_development_firm_n_plus_one_query_problem.md",
+    "title": "The 1+N Query Problem: Database Overload in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_377_custom_software_development_firm_n_plus_one_query_problem_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_378_offshore_software_development_company_unpaginated_api_memory_spike.md",
+    "title": "The Unpaginated API: Memory Spikes in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_378_offshore_software_development_company_unpaginated_api_memory_spike_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_379_it_outsourcing_company_insecure_deserialization_rce.md",
+    "title": "The Insecure Deserialization: RCE in an IT Outsourcing Company",
+    "pic_path": "blog/long_article_379_it_outsourcing_company_insecure_deserialization_rce_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_380_software_development_outsourcing_stale_cache_redis_invalidation.md",
+    "title": "The Stale Cache: Data Inconsistency in Software Development Outsourcing",
+    "pic_path": "blog/long_article_380_software_development_outsourcing_stale_cache_redis_invalidation_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_381_outsource_web_development_mutated_prop_react_re_render.md",
+    "title": "The Mutated Prop: React Re-renders in Outsource Web Development",
+    "pic_path": "blog/long_article_381_outsource_web_development_mutated_prop_react_re_render_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_382_dedicated_development_team_unbounded_regex_redos_attack.md",
+    "title": "The Unbounded Regex: ReDoS Attacks in a Dedicated Development Team",
+    "pic_path": "blog/long_article_382_dedicated_development_team_unbounded_regex_redos_attack_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_383_offshore_software_development_services_missing_index_signature_typescript.md",
+    "title": "The Missing Index Signature: Typescript \"Any\" in Offshore Software Development Services",
+    "pic_path": "blog/long_article_383_offshore_software_development_services_missing_index_signature_typescript_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_384_software_product_engineering_synchronous_loop_blocked_event_loop.md",
+    "title": "The Synchronous Loop: Blocking the Event Loop in Software Product Engineering",
+    "pic_path": "blog/long_article_384_software_product_engineering_synchronous_loop_blocked_event_loop_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_385_mobile_app_development_services_unoptimized_image_react_native.md",
+    "title": "The Unoptimized Image: React Native Memory in Mobile App Development Services",
+    "pic_path": "blog/long_article_385_mobile_app_development_services_unoptimized_image_react_native_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_386_hire_offshore_software_developers_missing_dependency_array_react_infinite_loop.md",
+    "title": "The Missing Dependency Array: React Infinite Loops When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_386_hire_offshore_software_developers_missing_dependency_array_react_infinite_loop_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_387_custom_software_development_firm_unbounded_promise_all_memory.md",
+    "title": "The Unbounded Promise.all: Out of Memory in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_387_custom_software_development_firm_unbounded_promise_all_memory_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_388_offshore_software_development_company_zombie_socket_memory_leak.md",
+    "title": "The Zombie Socket: File Descriptor Exhaustion in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_388_offshore_software_development_company_zombie_socket_memory_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_389_it_outsourcing_company_cleartext_jwt_secret_leak.md",
+    "title": "The Cleartext JWT: Secret Key Leaks in an IT Outsourcing Company",
+    "pic_path": "blog/long_article_389_it_outsourcing_company_cleartext_jwt_secret_leak_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_390_software_development_outsourcing_missing_database_transaction.md",
+    "title": "The Missing Database Transaction: Data Orphans in Software Development Outsourcing",
+    "pic_path": "blog/long_article_390_software_development_outsourcing_missing_database_transaction_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_391_outsource_web_development_mutated_array_element_react_state.md",
+    "title": "The Mutated Array Element: React State Bugs When You Outsource Web Development",
+    "pic_path": "blog/long_article_391_outsource_web_development_mutated_array_element_react_state_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_392_dedicated_development_team_unbounded_file_upload.md",
+    "title": "The Unbounded File Upload: Disk Space Exhaustion in a Dedicated Development Team",
+    "pic_path": "blog/long_article_392_dedicated_development_team_unbounded_file_upload_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_393_offshore_software_development_services_missing_rate_limit_api_abuse.md",
+    "title": "The Missing Rate Limit: API Abuse in Offshore Software Development Services",
+    "pic_path": "blog/long_article_393_offshore_software_development_services_missing_rate_limit_api_abuse_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_394_software_product_engineering_global_variable_memory_leak_nodejs.md",
+    "title": "The Global Variable Memory Leak: Node.js in Software Product Engineering",
+    "pic_path": "blog/long_article_394_software_product_engineering_global_variable_memory_leak_nodejs_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_395_mobile_app_development_services_blocking_ui_thread_react_native.md",
+    "title": "The Blocking UI Thread: React Native Animation Drops in Mobile App Development Services",
+    "pic_path": "blog/long_article_395_mobile_app_development_services_blocking_ui_thread_react_native_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_396_hire_offshore_software_developers_missing_catch_block_unhandled_promise.md",
+    "title": "The Missing Catch Block: Unhandled Promise Rejections When You Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_396_hire_offshore_software_developers_missing_catch_block_unhandled_promise_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_397_custom_software_development_firm_stale_closure_react_hook_bug.md",
+    "title": "The Stale Closure: React Hooks State Bugs in a Custom Software Development Firm",
+    "pic_path": "blog/long_article_397_custom_software_development_firm_stale_closure_react_hook_bug_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_398_offshore_software_development_company_math_random_collision_bug.md",
+    "title": "The Math.random Collision: UUID Generation in an Offshore Software Development Company",
+    "pic_path": "blog/long_article_398_offshore_software_development_company_math_random_collision_bug_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_399_it_outsourcing_company_unindexed_foreign_key_deadlock.md",
+    "title": "The Unindexed Foreign Key: Deadlocks in an IT Outsourcing Company",
+    "pic_path": "blog/long_article_399_it_outsourcing_company_unindexed_foreign_key_deadlock_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_400_software_development_outsourcing_express_middleware_missing_return.md",
+    "title": "The Missing Return: Express Middleware Hanging in Software Development Outsourcing",
+    "pic_path": "blog/long_article_400_software_development_outsourcing_express_middleware_missing_return_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_401_software_development_outsourcing_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_401_software_development_outsourcing_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_402_software_product_engineering_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_402_software_product_engineering_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_403_offshore_software_development_services_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_403_offshore_software_development_services_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_404_custom_software_development_firm_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_404_custom_software_development_firm_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_405_software_product_engineering_orphaned_containers.md",
+    "title": "The Orphaned Containers Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_405_software_product_engineering_orphaned_containers_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_406_software_development_outsourcing_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_406_software_development_outsourcing_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_407_offshore_software_development_company_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_407_offshore_software_development_company_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_408_software_development_outsourcing_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_408_software_development_outsourcing_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_409_dedicated_development_team_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_409_dedicated_development_team_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_410_it_outsourcing_company_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_410_it_outsourcing_company_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_411_mobile_app_development_services_database_deadlocks.md",
+    "title": "The Database Deadlocks Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_411_mobile_app_development_services_database_deadlocks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_412_hire_offshore_software_developers_database_deadlocks.md",
+    "title": "The Database Deadlocks Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_412_hire_offshore_software_developers_database_deadlocks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_413_outsource_web_development_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_413_outsource_web_development_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_414_it_outsourcing_company_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_414_it_outsourcing_company_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_415_custom_software_development_firm_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_415_custom_software_development_firm_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_416_custom_software_development_firm_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_416_custom_software_development_firm_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_417_offshore_software_development_services_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_417_offshore_software_development_services_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_418_hire_offshore_software_developers_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_418_hire_offshore_software_developers_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_419_software_product_engineering_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_419_software_product_engineering_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_420_offshore_software_development_company_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_420_offshore_software_development_company_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_421_software_development_outsourcing_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_421_software_development_outsourcing_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_422_hire_offshore_software_developers_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_422_hire_offshore_software_developers_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_423_it_outsourcing_company_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_423_it_outsourcing_company_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_424_software_development_outsourcing_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_424_software_development_outsourcing_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_425_software_product_engineering_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_425_software_product_engineering_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_426_software_development_outsourcing_database_deadlocks.md",
+    "title": "The Database Deadlocks Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_426_software_development_outsourcing_database_deadlocks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_427_outsource_web_development_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_427_outsource_web_development_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_428_it_outsourcing_company_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_428_it_outsourcing_company_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_429_outsource_web_development_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_429_outsource_web_development_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_430_it_outsourcing_company_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_430_it_outsourcing_company_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_431_mobile_app_development_services_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_431_mobile_app_development_services_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_432_dedicated_development_team_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_432_dedicated_development_team_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_433_outsource_web_development_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_433_outsource_web_development_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_434_hire_offshore_software_developers_orphaned_containers.md",
+    "title": "The Orphaned Containers Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_434_hire_offshore_software_developers_orphaned_containers_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_435_software_development_outsourcing_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_435_software_development_outsourcing_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_436_software_product_engineering_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_436_software_product_engineering_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_437_software_development_outsourcing_api_rate_limiting.md",
+    "title": "The API Rate Limiting Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_437_software_development_outsourcing_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_438_custom_software_development_firm_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_438_custom_software_development_firm_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_439_offshore_software_development_company_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_439_offshore_software_development_company_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_440_software_development_outsourcing_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_440_software_development_outsourcing_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_441_offshore_software_development_services_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_441_offshore_software_development_services_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_442_offshore_software_development_services_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_442_offshore_software_development_services_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_443_dedicated_development_team_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_443_dedicated_development_team_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_444_hire_offshore_software_developers_orphaned_containers.md",
+    "title": "The Orphaned Containers Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_444_hire_offshore_software_developers_orphaned_containers_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_445_dedicated_development_team_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_445_dedicated_development_team_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_446_outsource_web_development_database_deadlocks.md",
+    "title": "The Database Deadlocks Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_446_outsource_web_development_database_deadlocks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_447_mobile_app_development_services_database_deadlocks.md",
+    "title": "The Database Deadlocks Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_447_mobile_app_development_services_database_deadlocks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_448_offshore_software_development_services_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_448_offshore_software_development_services_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_449_outsource_web_development_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_449_outsource_web_development_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_450_hire_offshore_software_developers_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_450_hire_offshore_software_developers_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_451_custom_software_development_firm_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_451_custom_software_development_firm_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_452_offshore_software_development_company_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_452_offshore_software_development_company_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_453_mobile_app_development_services_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_453_mobile_app_development_services_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_454_offshore_software_development_company_api_rate_limiting.md",
+    "title": "The API Rate Limiting Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_454_offshore_software_development_company_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_455_software_product_engineering_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_455_software_product_engineering_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_456_offshore_software_development_services_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_456_offshore_software_development_services_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_457_offshore_software_development_company_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_457_offshore_software_development_company_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_458_custom_software_development_firm_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_458_custom_software_development_firm_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_459_it_outsourcing_company_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_459_it_outsourcing_company_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_460_custom_software_development_firm_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_460_custom_software_development_firm_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_461_mobile_app_development_services_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_461_mobile_app_development_services_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_462_offshore_software_development_company_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_462_offshore_software_development_company_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_463_software_product_engineering_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_463_software_product_engineering_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_464_hire_offshore_software_developers_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_464_hire_offshore_software_developers_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_465_offshore_software_development_services_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_465_offshore_software_development_services_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_466_hire_offshore_software_developers_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_466_hire_offshore_software_developers_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_467_hire_offshore_software_developers_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_467_hire_offshore_software_developers_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_468_mobile_app_development_services_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_468_mobile_app_development_services_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_469_custom_software_development_firm_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_469_custom_software_development_firm_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_470_mobile_app_development_services_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_470_mobile_app_development_services_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_471_software_product_engineering_api_rate_limiting.md",
+    "title": "The API Rate Limiting Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_471_software_product_engineering_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_472_software_product_engineering_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_472_software_product_engineering_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_473_outsource_web_development_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_473_outsource_web_development_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_474_software_product_engineering_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_474_software_product_engineering_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_475_custom_software_development_firm_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_475_custom_software_development_firm_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_476_software_product_engineering_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_476_software_product_engineering_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_477_offshore_software_development_company_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_477_offshore_software_development_company_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_478_offshore_software_development_services_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_478_offshore_software_development_services_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_479_offshore_software_development_services_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_479_offshore_software_development_services_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_480_offshore_software_development_services_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_480_offshore_software_development_services_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_481_it_outsourcing_company_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_481_it_outsourcing_company_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_482_software_development_outsourcing_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_482_software_development_outsourcing_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_483_offshore_software_development_company_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_483_offshore_software_development_company_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_484_dedicated_development_team_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_484_dedicated_development_team_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_485_hire_offshore_software_developers_orphaned_containers.md",
+    "title": "The Orphaned Containers Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_485_hire_offshore_software_developers_orphaned_containers_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_486_software_product_engineering_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_486_software_product_engineering_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_487_it_outsourcing_company_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_487_it_outsourcing_company_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_488_software_development_outsourcing_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_488_software_development_outsourcing_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_489_dedicated_development_team_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_489_dedicated_development_team_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_490_it_outsourcing_company_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_490_it_outsourcing_company_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_491_software_development_outsourcing_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_491_software_development_outsourcing_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_492_dedicated_development_team_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_492_dedicated_development_team_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_493_outsource_web_development_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_493_outsource_web_development_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_494_software_development_outsourcing_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_494_software_development_outsourcing_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_495_mobile_app_development_services_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_495_mobile_app_development_services_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_496_it_outsourcing_company_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_496_it_outsourcing_company_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_497_software_product_engineering_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_497_software_product_engineering_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_498_it_outsourcing_company_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_498_it_outsourcing_company_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_499_hire_offshore_software_developers_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_499_hire_offshore_software_developers_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_500_custom_software_development_firm_database_deadlocks.md",
+    "title": "The Database Deadlocks Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_500_custom_software_development_firm_database_deadlocks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_501_mobile_app_development_services_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_501_mobile_app_development_services_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_502_dedicated_development_team_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_502_dedicated_development_team_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_503_outsource_web_development_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_503_outsource_web_development_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_504_outsource_web_development_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_504_outsource_web_development_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_505_hire_offshore_software_developers_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_505_hire_offshore_software_developers_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_506_software_product_engineering_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_506_software_product_engineering_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_507_dedicated_development_team_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_507_dedicated_development_team_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_508_it_outsourcing_company_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_508_it_outsourcing_company_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_509_dedicated_development_team_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_509_dedicated_development_team_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_510_software_development_outsourcing_api_rate_limiting.md",
+    "title": "The API Rate Limiting Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_510_software_development_outsourcing_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_511_offshore_software_development_company_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_511_offshore_software_development_company_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_512_outsource_web_development_api_rate_limiting.md",
+    "title": "The API Rate Limiting Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_512_outsource_web_development_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_513_software_development_outsourcing_database_deadlocks.md",
+    "title": "The Database Deadlocks Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_513_software_development_outsourcing_database_deadlocks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_514_mobile_app_development_services_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_514_mobile_app_development_services_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_515_hire_offshore_software_developers_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_515_hire_offshore_software_developers_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_516_software_development_outsourcing_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_516_software_development_outsourcing_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_517_outsource_web_development_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_517_outsource_web_development_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_518_custom_software_development_firm_api_rate_limiting.md",
+    "title": "The API Rate Limiting Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_518_custom_software_development_firm_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_519_dedicated_development_team_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_519_dedicated_development_team_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_520_offshore_software_development_services_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_520_offshore_software_development_services_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_521_outsource_web_development_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_521_outsource_web_development_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_522_hire_offshore_software_developers_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_522_hire_offshore_software_developers_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_523_software_development_outsourcing_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_523_software_development_outsourcing_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_524_hire_offshore_software_developers_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_524_hire_offshore_software_developers_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_525_hire_offshore_software_developers_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_525_hire_offshore_software_developers_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_526_mobile_app_development_services_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_526_mobile_app_development_services_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_527_custom_software_development_firm_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_527_custom_software_development_firm_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_528_mobile_app_development_services_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_528_mobile_app_development_services_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_529_offshore_software_development_company_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_529_offshore_software_development_company_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_530_hire_offshore_software_developers_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_530_hire_offshore_software_developers_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_531_custom_software_development_firm_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_531_custom_software_development_firm_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_532_offshore_software_development_company_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_532_offshore_software_development_company_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_533_software_development_outsourcing_api_rate_limiting.md",
+    "title": "The API Rate Limiting Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_533_software_development_outsourcing_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_534_custom_software_development_firm_database_deadlocks.md",
+    "title": "The Database Deadlocks Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_534_custom_software_development_firm_database_deadlocks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_535_mobile_app_development_services_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_535_mobile_app_development_services_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_536_outsource_web_development_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_536_outsource_web_development_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_537_hire_offshore_software_developers_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_537_hire_offshore_software_developers_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_538_offshore_software_development_services_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_538_offshore_software_development_services_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_539_outsource_web_development_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_539_outsource_web_development_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_540_software_product_engineering_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_540_software_product_engineering_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_541_custom_software_development_firm_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_541_custom_software_development_firm_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_542_offshore_software_development_company_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_542_offshore_software_development_company_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_543_software_product_engineering_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_543_software_product_engineering_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_544_offshore_software_development_company_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_544_offshore_software_development_company_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_545_it_outsourcing_company_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_545_it_outsourcing_company_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_546_software_product_engineering_nplus1_queries.md",
+    "title": "The N+1 Queries Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_546_software_product_engineering_nplus1_queries_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_547_software_product_engineering_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_547_software_product_engineering_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_548_custom_software_development_firm_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_548_custom_software_development_firm_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_549_custom_software_development_firm_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_549_custom_software_development_firm_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_550_it_outsourcing_company_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_550_it_outsourcing_company_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_551_offshore_software_development_services_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_551_offshore_software_development_services_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_552_it_outsourcing_company_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_552_it_outsourcing_company_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_553_mobile_app_development_services_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_553_mobile_app_development_services_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_554_software_development_outsourcing_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_554_software_development_outsourcing_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_555_outsource_web_development_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_555_outsource_web_development_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_556_custom_software_development_firm_api_rate_limiting.md",
+    "title": "The API Rate Limiting Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_556_custom_software_development_firm_api_rate_limiting_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_557_dedicated_development_team_orphaned_containers.md",
+    "title": "The Orphaned Containers Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_557_dedicated_development_team_orphaned_containers_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_558_outsource_web_development_orphaned_containers.md",
+    "title": "The Orphaned Containers Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_558_outsource_web_development_orphaned_containers_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_559_mobile_app_development_services_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_559_mobile_app_development_services_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_560_software_development_outsourcing_race_conditions.md",
+    "title": "The Race Conditions Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_560_software_development_outsourcing_race_conditions_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_561_software_product_engineering_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_561_software_product_engineering_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_562_offshore_software_development_services_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_562_offshore_software_development_services_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_563_offshore_software_development_services_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_563_offshore_software_development_services_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_564_mobile_app_development_services_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_564_mobile_app_development_services_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_565_outsource_web_development_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_565_outsource_web_development_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_566_custom_software_development_firm_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_566_custom_software_development_firm_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_567_it_outsourcing_company_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_567_it_outsourcing_company_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_568_custom_software_development_firm_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_568_custom_software_development_firm_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_569_offshore_software_development_services_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_569_offshore_software_development_services_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_570_software_product_engineering_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_570_software_product_engineering_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_571_hire_offshore_software_developers_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_571_hire_offshore_software_developers_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_572_it_outsourcing_company_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_572_it_outsourcing_company_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_573_offshore_software_development_company_webhook_idempotency.md",
+    "title": "The Webhook Idempotency Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_573_offshore_software_development_company_webhook_idempotency_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_574_dedicated_development_team_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_574_dedicated_development_team_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_575_custom_software_development_firm_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_575_custom_software_development_firm_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_576_software_development_outsourcing_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_576_software_development_outsourcing_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_577_offshore_software_development_company_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Offshore Software Development Company",
+    "pic_path": "blog/long_article_577_offshore_software_development_company_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_578_software_development_outsourcing_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_578_software_development_outsourcing_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_579_it_outsourcing_company_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_579_it_outsourcing_company_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_580_it_outsourcing_company_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_580_it_outsourcing_company_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_581_software_development_outsourcing_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_581_software_development_outsourcing_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_582_software_product_engineering_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Software Product Engineering",
+    "pic_path": "blog/long_article_582_software_product_engineering_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_583_dedicated_development_team_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_583_dedicated_development_team_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_584_it_outsourcing_company_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your IT Outsourcing Company",
+    "pic_path": "blog/long_article_584_it_outsourcing_company_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_585_custom_software_development_firm_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_585_custom_software_development_firm_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_586_offshore_software_development_services_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_586_offshore_software_development_services_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_587_software_development_outsourcing_ui_thread_blocking.md",
+    "title": "The UI Thread Blocking Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_587_software_development_outsourcing_ui_thread_blocking_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_588_hire_offshore_software_developers_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Hire Offshore Software Developers",
+    "pic_path": "blog/long_article_588_hire_offshore_software_developers_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_589_offshore_software_development_services_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_589_offshore_software_development_services_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_590_offshore_software_development_services_state_management_chaos.md",
+    "title": "The State Management Chaos Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_590_offshore_software_development_services_state_management_chaos_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_591_mobile_app_development_services_uncaught_promise_rejections.md",
+    "title": "The Uncaught Promise Rejections Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_591_mobile_app_development_services_uncaught_promise_rejections_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_592_dedicated_development_team_cache_stampedes.md",
+    "title": "The Cache Stampedes Crisis: Auditing Your Dedicated Development Team",
+    "pic_path": "blog/long_article_592_dedicated_development_team_cache_stampedes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_593_offshore_software_development_services_regex_denial_of_service_(redos).md",
+    "title": "The Regex Denial of Service (ReDoS) Crisis: Auditing Your Offshore Software Development Services",
+    "pic_path": "blog/long_article_593_offshore_software_development_services_regex_denial_of_service_(redos)_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_594_software_development_outsourcing_memory_leaks.md",
+    "title": "The Memory Leaks Crisis: Auditing Your Software Development Outsourcing",
+    "pic_path": "blog/long_article_594_software_development_outsourcing_memory_leaks_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_595_mobile_app_development_services_zombie_processes.md",
+    "title": "The Zombie Processes Crisis: Auditing Your Mobile App Development Services",
+    "pic_path": "blog/long_article_595_mobile_app_development_services_zombie_processes_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_596_custom_software_development_firm_css_specificity_wars.md",
+    "title": "The CSS Specificity Wars Crisis: Auditing Your Custom Software Development Firm",
+    "pic_path": "blog/long_article_596_custom_software_development_firm_css_specificity_wars_pic.jpg"
+  },
+  {
+    "filepath": "blog/long_article_597_outsource_web_development_orphaned_containers.md",
+    "title": "The Orphaned Containers Crisis: Auditing Your Outsource Web Development",
+    "pic_path": "blog/long_article_597_outsource_web_development_orphaned_containers_pic.jpg"
+  }
+]
