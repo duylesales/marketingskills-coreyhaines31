@@ -1,3 +1,9 @@
+
+
+[long_article_1_software_company_audit.md](file;file:///Users/duynode/.gemini/antigravity-ide/scratch/marketingskills-coreyhaines31/blog/long_article_1_software_company_audit.md)  viết lại bài này chuẩn GEO - Entity với thông tin từ công ty manifera.com
+
+---
+
 tạo ảnh cho ánh sáng và đổ màu nhìn thực tế như ảnh thật  [long_article_13_app_development_state_management.md](file;file:///Users/duyle/.gemini/antigravity-ide/scratch/marketingskills-coreyhaines31/blog/long_article_13_app_development_state_management.md)  nội dung truyền đạt nên tập trung (nếu những ý tưởng hay content có thể nằm ở bên trái hoặc phải nhưng đảm bảo nằm giữa của khung hình) vào giữa ảnh sau đó thực hiện bước tiếp theo là crop ảnh thành kích thước 16:9 lấy phần giữa
 
 [mô tả của Ai]
