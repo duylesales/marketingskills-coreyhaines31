@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "MeiGen Visual Creative Expert": {
+      "source": "jau123/MeiGen-AI-Design-MCP",
+      "sourceType": "github",
+      "skillPath": "plugin/skills/visual-creative/SKILL.md",
+      "computedHash": "1e0646c0d31c88470c23cd5688beacc8f5239c440474d4ac3c1db6839a8c23ca"
+    },
+    "Social Thumbnail Workflow": {
+      "source": "jau123/MeiGen-AI-Design-MCP",
+      "sourceType": "github",
+      "skillPath": "plugin/skills/social-thumbnail/SKILL.md",
+      "computedHash": "4842a36f63351c2aafe2c5b8a32da2487c58892e32ae52158ee40233d277830c"
+    },
+    "ai-image-creator": {
+      "source": "centminmod/my-claude-code-setup",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ai-image-creator/SKILL.md",
+      "computedHash": "b465615a5806235f0b835d5a40bee267fa4003c5a873f219ee1003396b1a49bd"
+    }
+  }
+}
