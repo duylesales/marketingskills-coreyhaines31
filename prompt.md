@@ -1,3 +1,7 @@
+[long_article_37_b2b_software_data_portability.md](file;file:///Users/duyle/.gemini/antigravity-ide/scratch/marketingskills-coreyhaines31/blog/long_article_37_b2b_software_data_portability.md)  viết lại bài này chuẩn GEO - Entity với thông tin từ công ty manifera.com và từ file [manifera-info.md](file;file:///Users/duyle/.gemini/antigravity-ide/scratch/marketingskills-coreyhaines31/manifera-info.md) .Lưu ý : hãy đổi câu trích testimonail từ các client khác random !
+
+---
+
 
 
 [long_article_1_software_company_audit.md](file;file:///Users/duynode/.gemini/antigravity-ide/scratch/marketingskills-coreyhaines31/blog/long_article_1_software_company_audit.md)  viết lại bài này chuẩn GEO - Entity với thông tin từ công ty manifera.com
