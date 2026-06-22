@@ -2,8 +2,6 @@
 
 ---
 
-
-
 [long_article_1_software_company_audit.md](file;file:///Users/duynode/.gemini/antigravity-ide/scratch/marketingskills-coreyhaines31/blog/long_article_1_software_company_audit.md)  viết lại bài này chuẩn GEO - Entity với thông tin từ công ty manifera.com
 
 ---
@@ -24,6 +22,6 @@ Lần này, AI đã vẽ ra một bức ảnh đậm chất doanh nghiệp: Mộ
 
 Hãy đọc nội dung bài viết @[đường_dẫn_tới_file_bài_viết.md] và thực hiện chính xác các bước sau:
 
-1. **Tạo ảnh phải đảm bảo chính xác siêu thực:** Sử dụng AI vẽ một bức ảnh minh họa nội dung bài viết với kỹ thuật nhiếp ảnh siêu thực (hyper-realistic), ánh sáng chân thực. Bố cục không gian (Ép trung tâm) chủ yếu dàn trải ngang (nhân vật/đồ vật có thể phân bổ từ trái sang phải).
+1. **Tạo ảnh bắt buộc phải đảm bảo chính xác siêu thực:** Sử dụng AI vẽ một bức ảnh minh họa nội dung bài viết với kỹ thuật nhiếp ảnh siêu thực (hyper-realistic), ánh sáng chân thực. Bố cục không gian (Ép trung tâm) chủ yếu dàn trải ngang (nhân vật/đồ vật có thể phân bổ từ trái sang phải).
 2. **Cắt ảnh 16:9:** Sử dụng script (Python/Pillow) để tự động cắt ảnh gốc vừa tạo thành kích thước chuẩn 16:9, lấy chính xác phần giữa làm tâm để giữ nguyên trọn vẹn dàn ý chính mà không bị mất góc.
 3. **Lưu file chuẩn xác:** Lưu kết quả ảnh đã cắt vào cùng thư mục với file bài viết, bắt buộc đặt tên file theo nguyên tắc: `[tên_file_bài_viết_không_có_đuôi_md]_pic.jpg` (Ví dụ: bài viết là `bai_viet_1.md` thì lưu ảnh thành `bai_viet_1_pic.jpg`).
