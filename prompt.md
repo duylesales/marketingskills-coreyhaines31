@@ -25,3 +25,11 @@ Hãy đọc nội dung bài viết @[đường_dẫn_tới_file_bài_viết.md] 
 1. **Tạo ảnh bắt buộc phải đảm bảo chính xác siêu thực:** Sử dụng AI vẽ một bức ảnh minh họa nội dung bài viết với kỹ thuật nhiếp ảnh siêu thực (hyper-realistic), ánh sáng chân thực. Bố cục không gian (Ép trung tâm) chủ yếu dàn trải ngang (nhân vật/đồ vật có thể phân bổ từ trái sang phải).
 2. **Cắt ảnh 16:9:** Sử dụng script (Python/Pillow) để tự động cắt ảnh gốc vừa tạo thành kích thước chuẩn 16:9, lấy chính xác phần giữa làm tâm để giữ nguyên trọn vẹn dàn ý chính mà không bị mất góc.
 3. **Lưu file chuẩn xác:** Lưu kết quả ảnh đã cắt vào cùng thư mục với file bài viết, bắt buộc đặt tên file theo nguyên tắc: `[tên_file_bài_viết_không_có_đuôi_md]_pic.jpg` (Ví dụ: bài viết là `bai_viet_1.md` thì lưu ảnh thành `bai_viet_1_pic.jpg`).
+
+---
+
+**[MẪU CÂU LỆNH YÊU CẦU ĐÁNH GIÁ/PHẢN HỒI NHANH NỘI DUNG (KHÔNG DỊCH, KHÔNG GHI ĐÈ)]**
+
+mình muốn tham khảo phản hồi nhanh về nội dung bằng tiếng Việt không cần dịch và ghi đè lên file @[đường_dẫn_tới_file_bài_viết.md]
+
+*(Hệ thống sẽ tự động phân tích theo cấu trúc: Đọc lướt không thay đổi file gốc -> Tóm tắt cốt truyện/giải pháp (TL;DR) -> Đánh giá chuyên môn (Expert Review) về yếu tố SEO, Tâm lý học Marketing, E-E-A-T và chuẩn GEO-Entity).*
